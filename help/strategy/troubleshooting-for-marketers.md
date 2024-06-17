@@ -9,11 +9,11 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
-source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
+exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
+source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
 workflow-type: tm+mt
-source-wordcount: '724'
-ht-degree: 2%
+source-wordcount: '715'
+ht-degree: 0%
 
 ---
 
@@ -28,11 +28,11 @@ En utilisant ACS, j&#39;ai rencontré des erreurs qui peuvent prendre du temps e
 
 ## Erreur de correspondance du type de données
 
-**Code d’erreur:**
+**Code d’erreur :**
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **Cause :**
-Ces types d&#39;erreurs apparaissent dans un workflow lorsque vous essayez de vous réconcilier à l&#39;aide de champs de différents types de données. Par exemple, lorsque vous téléchargez un fichier à l’aide d’un fichier de chargement comportant un champ de chaîne et que vous essayez de réconcilier le champ de chaîne avec un champ de profil dont le type de données est int.
+Ces types d&#39;erreurs apparaissent dans un workflow lorsque vous essayez de vous réconcilier à l&#39;aide de champs de différents types de données. Par exemple, lorsque vous téléchargez un fichier à l’aide d’un fichier de chargement (qui comporte un champ de chaîne), vous essayez de réconcilier le champ de chaîne avec un champ de profil dont le type de données est int.
 
 ![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
 
@@ -44,7 +44,7 @@ Remplacez le type de données du champ de l&#39;activité &quot;Chargement de fi
 
 ## Erreur de personnalisation de la diffusion
 
-**Code d’erreur:**
+**Code d’erreur :**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **Cause :**
@@ -53,17 +53,17 @@ Cette erreur s’affiche lorsque vous envoyez un email à une adresse, mais que 
 ![workflow avec activité de réconciliation](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Solution :**
-Un identifiant commun doit exister à partir du fichier chargé avec la table des destinataires. Cette clé commune relie le fichier de chargement à la table des destinataires dans l&#39;activité de réconciliation. Les emails ne peuvent pas être envoyés aux enregistrements qui n&#39;existent pas dans la table des destinataires et qui nécessitent cette étape de réconciliation dans le workflow. Ce faisant, vous réconciliez l’activité de chargement de fichier entrant avec un identifiant comme l’ID d’email du profil. La variable `nms:recipient` schéma fait référence à la table des profils et la réconciliation des enregistrements entrants avec le profil la rend disponible lors de la préparation des emails.
+Un identifiant commun doit exister à partir du fichier chargé avec la table des destinataires. Cette clé commune relie le fichier de chargement à la table des destinataires dans l&#39;activité de réconciliation. Les emails ne peuvent pas être envoyés aux enregistrements qui n&#39;existent pas dans la table des destinataires, ce qui nécessite cette étape de réconciliation dans le workflow. Ce faisant, vous réconciliez l’activité de chargement de fichier entrant avec un identifiant comme l’e-mail du profil. La variable `nms:recipient` schéma fait référence à la table des profils et la réconciliation des enregistrements entrants avec le profil la rend disponible lors de la préparation des emails.
 
 Reportez-vous à la capture d&#39;écran de l&#39;activité de réconciliation comme illustré ci-dessous.
 
 ![workflow avec détail de réconciliation](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-En savoir plus sur [réconciliation](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
+En savoir plus sur [réconciliation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Erreur du jeu de données de champ commun
 
-**Code d’erreur:**
+**Code d’erreur :**
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Cause :**
@@ -72,7 +72,7 @@ Ce problème se produit lors de l’utilisation de la variable **activité d’e
 
 ![Erreur du jeu de données de champ commun](/help/assets/kt-13256/dataset-error.png)
 
-**Solution:**
+**Solution :**
 
 Cette erreur peut être résolue de deux manières différentes :
 
@@ -86,10 +86,10 @@ Cette erreur peut être résolue de deux manières différentes :
 
 ## Nom du champ Erreur de suppression
 
-**Code d’erreur:**
+**Code d’erreur :**
 `XTK-170036 Unable to parse expression 'i__name'`
 
-**Cause:**
+**Cause :**
 
 Les points d’échec peuvent se produire dans une variable **activité d&#39;enrichissement**. L’une des plus courantes est affichée ci-dessous.
 
@@ -97,7 +97,7 @@ Les points d’échec peuvent se produire dans une variable **activité d&#39;en
 
 Cela se produit lorsque vous modifiez manuellement le nom d’une expression dans l’activité. L’image montre que l’expression a été modifiée à partir de `name `to `i__name`.
 
-**Solution:**
+**Solution :**
 
 Vous pouvez résoudre cette erreur de trois façons :
 
@@ -109,7 +109,7 @@ Vous pouvez résoudre cette erreur de trois façons :
 
 ## Erreur de suppression de la table temporaire 
 
-**Code d’erreur:**
+**Code d’erreur :**
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **Cause :**
