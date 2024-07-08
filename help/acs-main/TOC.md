@@ -4,7 +4,7 @@ user-guide-description: Vidéos et tutoriels pour Adobe Campaign Standard.
 breadcrumb-title: Tutoriels Campaign Standard
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '517'
 ht-degree: 100%
 
@@ -100,7 +100,7 @@ ht-degree: 100%
       + [Vue d&#39;ensemble](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Configuration de Launch pour les déclencheurs](/help/integrations/configure-launch-for-triggers.md)
       + [Création d&#39;un déclencheur dans Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
-      + [Création d&#39;un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
+      + [Créer un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configurer Microsoft](/help/integrations/configure-dynamics-365.md)
 + Administration de {#administrating}
