@@ -13,8 +13,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 22%
+source-wordcount: '97'
+ht-degree: 29%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 22%
 >
 >Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis.
 >
->Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
+>Contactez le [!UICONTROL service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 
 Découvrez comment vérifier l’état d’une tâche d’ingestion de données et si les données ont été ingérées de Adobe Campaign Standard vers Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?learn=on){transcript=true}
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Définition du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
 * [Activation du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

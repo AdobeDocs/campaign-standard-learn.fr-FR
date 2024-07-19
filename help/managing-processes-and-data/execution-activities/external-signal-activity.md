@@ -13,15 +13,15 @@ level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # [!UICONTROL Activité Signal externe] - Appeler un workflow avec des paramètres
 
-La variable [!UICONTROL Activité Signal externe] est utilisé pour organiser et orchestrer différents processus qui font partie du même parcours client dans différents workflows. Cette activité peut démarrer un workflow à partir d&#39;un autre. La variable [!UICONTROL Activité Signal externe] peut appeler un workflow et transmettre des paramètres, tels qu’un nom d’audience à cibler, un nom de fichier à importer ou une partie du contenu du message, d’un workflow à un autre. Il peut également appeler une API REST pour l’intégrer à des systèmes externes, tels qu’un système de gestion de contenu. Avec la variable **Test** , les tests peuvent être exécutés sur cette fonctionnalité.
+L’ [!UICONTROL activité Signal externe] permet d’organiser et d’orchestrer différents processus qui font partie du même parcours client dans différents workflows. Cette activité peut démarrer un workflow à partir d&#39;un autre. L’ [!UICONTROL activité Signal externe] peut appeler un workflow et transmettre des paramètres, tels qu’un nom d’audience à cibler, un nom de fichier à importer ou une partie du contenu du message, d’un workflow à un autre. Il peut également appeler une API REST pour l’intégrer à des systèmes externes, tels qu’un système de gestion de contenu. Avec l’activité **Test**, les tests peuvent être exécutés sur cette fonctionnalité.
 
-Découvrez comment configurer [!UICONTROL Activité Signal externe] pour recevoir des paramètres** d’un système externe, personnaliser un workflow avec des paramètres externes et configurer une activité de fin pour appeler un workflow avec des paramètres externes
+Découvrez comment configurer l’ [!UICONTROL activité Signal externe] pour recevoir des paramètres** d’un système externe, personnaliser un workflow avec des paramètres externes et configurer une activité de fin pour appeler un workflow avec des paramètres externes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}

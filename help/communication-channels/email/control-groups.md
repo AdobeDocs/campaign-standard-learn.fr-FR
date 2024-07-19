@@ -13,13 +13,13 @@ level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 98%
+ht-degree: 85%
 
 ---
 
 # Ajout d’une [!UICONTROL population témoin] à une [!UICONTROL diffusion]
 
-L’utilisation de [!UICONTROL populations témoins] vous permet de mesurer l’impact de votre [!UICONTROL diffusion ]et d’optimiser votre campagne marketing.
+L&#39;utilisation de [!UICONTROL populations témoins] vous permet de mesurer l&#39;impact de votre [!UICONTROL diffusion] et d&#39;optimiser votre campagne marketing.
 
 [!DNL Adobe Campaign Standard] vous permet de créer une [!UICONTROL population témoin], qui peut être exclue de votre audience cible, de manière aléatoire ou selon des critères spécifiques. Le comportement de la [!UICONTROL population témoin] peut alors servir de point de comparaison avec le comportement de la population cible qui a reçu la communication marketing.
 

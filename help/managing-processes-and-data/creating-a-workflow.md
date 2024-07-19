@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 66%
+source-wordcount: '83'
+ht-degree: 74%
 
 ---
 
@@ -30,4 +30,4 @@ Cette vidéo vous montrera comment créer et modifier un workflow dans Adobe Ca
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
-Pour plus d’informations sur le produit, voir la documentation du produit [Création d’un workflow (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+Consultez la documentation du produit pour plus d’informations sur [Création d’un workflow (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

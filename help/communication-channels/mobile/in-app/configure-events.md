@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 5%
+ht-degree: 10%
 
 ---
 
-# Configurer [!UICONTROL Événements] {#configuring-events}
+# Configurer [!UICONTROL Events] {#configuring-events}
 
 Identifiez l’action initiée par l’utilisateur qui déclenche un message in-app et découvrez comment configurer ces événements.
 

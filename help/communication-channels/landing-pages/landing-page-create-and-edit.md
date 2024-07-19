@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 39%
+source-wordcount: '81'
+ht-degree: 35%
 
 ---
 
@@ -23,6 +23,6 @@ Adobe Campaign vous permet de créer des landing pages qui sont des formulaires 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Création d&#39;une landing page (documentation)](https://docs.campaign.adobe.com/doc/standard/getting_started/fr/ACS_CreateLandingPage.html)

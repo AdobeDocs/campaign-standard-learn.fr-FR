@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
-# Cibler les utilisateurs en fonction de leurs [!DNL Campaign] profile
+# Cibler les utilisateurs en fonction de leur profil [!DNL Campaign]
 
 Découvrez comment cibler les utilisateurs connus d’applications mobiles avec des messages personnalisés avec des attributs de profil CRM.
 

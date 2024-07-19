@@ -15,18 +15,18 @@ hidefromtoc: true
 source-git-commit: 563f4440b1d9454a1976b4ba7594d8a550814de1
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
-# Modifier la dimension de ciblage [!UICONTROL Audience de la plateforme]
+# Modification de la dimension de ciblage [!UICONTROL Audience de la plateforme]
 
 >[!NOTE]
 >
->Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience Destinations] repose sur Adobe Experience Platform et nécessite une configuration spécifique.
+>Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience Destinations] est basé sur Adobe Experience Platform et nécessite une configuration spécifique.
 >
->Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
+>Contactez le [!UICONTROL service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 
-Cette vidéo explique comment modifier la dimension de ciblage d’une diffusion pour une [!UICONTROL Audience de la plateforme] en dehors du tableau des profils principaux dans Adobe Campaign Standard.
+Cette vidéo explique comment modifier la dimension de ciblage d’une diffusion pour une [!UICONTROL audience de plateforme] en dehors de la table des profils principaux dans Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

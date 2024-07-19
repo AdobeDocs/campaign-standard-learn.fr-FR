@@ -14,23 +14,23 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '124'
 ht-degree: 6%
 
 ---
 
-# [!UICONTROL Audience Destinations] (BÊTA) - Aperçu
+# [!UICONTROL Audience Destinations] (BETA) - Aperçu
 
 ## Utilisation des audiences Adobe Experience Platform dans Adobe Campaign Standard
 
 >[!NOTE]
 >
->Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience Destinations] repose sur Adobe Experience Platform et nécessite une configuration spécifique.
+>Cette fonctionnalité est en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience Destinations] est basé sur Adobe Experience Platform et nécessite une configuration spécifique.
 >
->Contacter pour [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
+>Contactez le [!UICONTROL service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 >
 
-Le module Audiences de Adobe Campaign Standard vous permet de créer des segments à l’aide des données de Adobe Experience Platform. [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Le module Audiences de Adobe Campaign Standard vous permet de créer des segments à l’aide des données de Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 Les tutoriels vidéo suivants vous guident tout au long des différentes étapes :
 

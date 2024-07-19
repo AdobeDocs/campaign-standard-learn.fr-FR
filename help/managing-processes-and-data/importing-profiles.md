@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 17%
+ht-degree: 20%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 17%
 
 Vous pouvez collecter des données à partir d&#39;un fichier pour les traiter et/ou les importer dans la base de données Adobe Campaign.
 
-Cette vidéo explique comment utiliser le [!UICONTROL Data Management] activités dans un workflow pour importer des données de profil.
+Cette vidéo explique comment utiliser les activités [!UICONTROL Data Management] dans un workflow pour importer des données de profil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}

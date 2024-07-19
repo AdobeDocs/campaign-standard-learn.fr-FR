@@ -1,5 +1,5 @@
 ---
-title: Configuration de la vue mobile dans le Concepteur d’email
+title: Configuration de la vue mobile dans le concepteur d’e-mail
 description: "Découvrez comment affiner le responsive design d’un email en modifiant séparément toutes les options de style pour l’affichage mobile."
 feature: Email Design
 jira: KT-2423
@@ -13,11 +13,11 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 63%
+ht-degree: 53%
 
 ---
 
-# Configuration de la vue mobile dans le [!UICONTROL Concepteur d’email] {#configure-the-mobile-view}
+# Configurez la vue mobile dans le [!UICONTROL Designer email] {#configure-the-mobile-view}
 
 Vous pouvez affiner le responsive design d’un email en éditant séparément toutes les options de style pour l’affichage mobile.
 

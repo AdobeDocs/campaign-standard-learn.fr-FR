@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 11%
+ht-degree: 15%
 
 ---
 
-# Créez un [!UICONTROL In-App] diffusion dans un workflow
+# Créer une diffusion [!UICONTROL In-App] dans un workflow
 
 Découvrez comment utiliser l&#39;activité Diffusion In-App pour automatiser l&#39;envoi d&#39;un message In-App à une audience cible calculée dans un workflow.
 

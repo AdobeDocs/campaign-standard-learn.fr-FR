@@ -12,19 +12,19 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 13%
+source-wordcount: '82'
+ht-degree: 14%
 
 ---
 
 # Création d&#39;un rapport basé sur des attributs de profil personnalisés
 
-Adobe Campaign [!UICONTROL Rapports dynamiques] est un environnement à structure libre flexible dans lequel vous pouvez explorer les données en incluant des attributs de profil personnalisés. Il vous permet de combiner des dimensions, des mesures et une période dans n’importe quelle combinaison, avec un nombre illimité de ventilations et de comparaisons.
+Adobe Campaign [!UICONTROL Dynamic Reports] est un environnement à structure libre flexible dans lequel vous pouvez explorer les données en incluant des attributs de profil personnalisés. Il vous permet de combiner des dimensions, des mesures et une période dans n’importe quelle combinaison, avec un nombre illimité de ventilations et de comparaisons.
 
 Cette vidéo explique comment créer un rapport basé sur des attributs de profil personnalisés.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
 
-## Ressources supplémentaires
+## Autres ressources
 
-* [À propos du reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [À propos de la création de rapports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

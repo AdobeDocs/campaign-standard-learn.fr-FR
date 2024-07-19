@@ -12,24 +12,24 @@ team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 10%
+source-wordcount: '67'
+ht-degree: 16%
 
 ---
 
-# Mappage [!UICONTROL Événements d’expérience]
+# Mappage de [!UICONTROL  événements d’expérience]
 
 >[!NOTE]
 >
 >Cette fonctionnalité est actuellement en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis.
 >
->Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
+>Contactez le [!UICONTROL service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 
-Découvrez comment mapper [!UICONTROL Événements d’expérience] dans Adobe Experience Platform (AEP).
+Découvrez comment mapper [!UICONTROL Experience Events] dans Adobe Experience Platform (AEP).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
 
-## Ressources supplémentaires
+## Autres ressources
 
 * [Définition du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
 * [Activation du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

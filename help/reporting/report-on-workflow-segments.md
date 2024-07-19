@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 49%
+source-wordcount: '78'
+ht-degree: 20%
 
 ---
 
@@ -25,4 +25,4 @@ Découvrez comment définir des segments dans votre workflow et les rendre aux r
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-Pour plus d’informations, voir [documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Pour plus d’informations, voir la [documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

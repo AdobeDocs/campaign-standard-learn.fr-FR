@@ -12,21 +12,21 @@ team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 3%
+source-wordcount: '81'
+ht-degree: 6%
 
 ---
 
-# Mappage [!UICONTROL ressources personnalisées]
+# Mappage de [!UICONTROL ressources personnalisées]
 
 >[!NOTE]
 >
 >Cette fonctionnalité est actuellement en version bêta et sujette à de fréquentes mises à jour et modifications sans préavis.
 >
->Veuillez contacter [!UICONTROL Service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
+>Contactez le [!UICONTROL service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 
 Découvrez comment mapper différents types de données entre Adobe Campaign Standard et Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
 
-Pour plus d’informations sur la variable [Définition du mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+Consultez la documentation du produit pour plus d’informations sur la [définition du mappage](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

@@ -8,7 +8,7 @@ feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
-source-wordcount: '1471'
+source-wordcount: '1475'
 ht-degree: 100%
 
 ---
@@ -56,7 +56,7 @@ Voici quatre stratégies clés pour optimiser votre ROI :
 ### 2. Infrastructure
 
 * Assurez-vous que l’authentification des e-mails est correctement configurée en effectuant un test avec votre propre adresse e-mail.
-* Familiarisez-vous avec la gestion des bounces et vérifiez les performances sur tous vos FAI.
+* Familiarisez-vous avec la gestion des rebonds et vérifiez les performances sur tous vos FAI.
    * Existe-t-il des problèmes ou des blocages potentiels avec un FAI spécifique ?
    * Connaître vos problèmes avant de commencer à envoyer un volume élevé afin d’éviter les mauvaises surprises et les mauvaises performances de la campagne
 

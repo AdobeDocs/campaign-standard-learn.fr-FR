@@ -12,23 +12,23 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 1%
 
 ---
 
-# Créez un [!UICONTROL Courrier] {#create-a-direct-mail}
+# Création d’un [!UICONTROL courrier] {#create-a-direct-mail}
 
-La variable [!UICONTROL Courrier] channel vous permet d’extraire une liste segmentée de destinataires à envoyer à une agence ou à charger sur un serveur SFTP.
+Le canal [!UICONTROL Courrier] vous permet d’extraire une liste segmentée de destinataires à envoyer à une agence ou à charger sur un serveur SFTP.
 
-Cette vidéo explique comment configurer une [!UICONTROL Courrier] diffusion et les paramètres requis pour pouvoir ajouter un profil à un [!UICONTROL Courrier] diffusion.
+Cette vidéo explique comment configurer une diffusion [!UICONTROL courrier] et les paramètres requis pour pouvoir ajouter un profil à une diffusion [!UICONTROL courrier].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
 
-## Créez un [!UICONTROL Courrier] dans un workflow
+## Créer un [!UICONTROL courrier] dans un workflow
 
-Le canal est disponible à partir de la page d’accueil et dans la vue du workflow pour définir des stratégies marketing cross-canal cohérentes. L’exemple de workflow suivant inclut la variable [!UICONTROL Activité Courrier].
+Le canal est disponible à partir de la page d’accueil et dans la vue du workflow pour définir des stratégies marketing cross-canal cohérentes. L’exemple de workflow suivant inclut l’activité [!UICONTROL Courrier].
 
 ![Image de workflow](/help/assets/direct_mail_examplewf.png)
 
-Consultez la documentation du produit pour en savoir plus [À propos de Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Consultez la documentation du produit pour en savoir plus [sur Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

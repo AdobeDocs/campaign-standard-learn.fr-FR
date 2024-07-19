@@ -1,5 +1,5 @@
 ---
-title: A/B testing
+title: Test A/B
 description: Découvrez comment configurer et envoyer un test A/B pour tester l’objet d’un email.
 feature: A/B Testing
 jira: KT-3907
@@ -12,17 +12,17 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 36%
+source-wordcount: '117'
+ht-degree: 29%
 
 ---
 
-# A/B testing
+# Test A/B
 
-La variable [!UICONTROL Test A/B] dans Adobe Campaign, vous permet de définir deux à trois variantes d&#39;emails. Chaque variante est envoyée à des échantillons de population afin de déterminer celle qui entraîne les meilleurs résultats. Une fois déterminée, la variante gagnante est alors envoyée à la population restante. Vous pouvez choisir de faire varier le contenu, le sujet ou l&#39;expéditeur de l&#39;email.
+La fonctionnalité [!UICONTROL Test A/B] d’Adobe Campaign vous permet de définir entre deux et trois variantes d’emails. Chaque variante est envoyée à des échantillons de population afin de déterminer celle qui entraîne les meilleurs résultats. Une fois déterminée, la variante gagnante est alors envoyée à la population restante. Vous pouvez choisir de faire varier le contenu, le sujet ou l&#39;expéditeur de l&#39;email.
 
 Découvrez comment configurer et envoyer un test A/B pour tester l’objet d’un email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-Voir [documentation du produit](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) pour plus d’informations sur le test du contenu ou de l’expéditeur.
+Pour plus d’informations sur le test du contenu ou de l’expéditeur, consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) .
