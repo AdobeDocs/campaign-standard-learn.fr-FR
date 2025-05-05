@@ -23,4 +23,4 @@ Pour pouvoir créer des demandes d’accès à des informations personnelles et 
 
 Découvrez comment créer des espaces de noms pour les demandes d’accès à des informations personnelles.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30234?learn=on&captions=fre_fr){transcript=true}

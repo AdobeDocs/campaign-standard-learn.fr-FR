@@ -28,6 +28,6 @@ Optimisé par [!UICONTROL l’IA dédiée au parcours], [!DNL Adobe Campaign] pe
 
 Identifiez les workflows nécessaires pour synchroniser les données entre Adobe Campaign et le modèle d’IA dédiée au parcours. Découvrez comment afficher des scores d’heure d’envoi au niveau du profil individuel et comment exécuter des diffusions email à l&#39;aide d&#39;une formule d’heure d’envoi.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328459?learn=on&captions=fre_fr){transcript=true}
 
 Consultez la documentation du produit pour en savoir plus sur l’[optimisation de la conception et de la diffusion avec les e-mails optimisés par l’IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=fr)

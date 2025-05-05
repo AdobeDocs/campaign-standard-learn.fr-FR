@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Découvrez comment obtenir un identifiant d’événement et un identifiant de diffusion déchiffrés dans Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437889?learn=on&captions=fre_fr){transcript=true}

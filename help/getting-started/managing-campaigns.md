@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign permet de concevoir des campagnes marketing dans lesquelles vous pouvez créer et gérer différents types d’activités : emails, SMS, [!UICONTROL notifications push], workflows, landing pages. Ces campagnes et leurs contenus peuvent être regroupés dans des programmes. Cette vidéo vous montre comment créer et gérer des campagnes dans Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/24672?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328403?learn=on&captions=fre_fr){transcript=true}

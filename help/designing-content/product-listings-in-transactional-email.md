@@ -29,12 +29,12 @@ Les vidéos suivantes expliquent les étapes nécessaires à la configuration de
 
 ## Étape 1 - Créer un événement et le publier
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34433?learn=on&captions=fre_fr){transcript=true}
 
 ## Étape 2 - Ajouter une liste de produits à un modèle de message transactionnel
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34434?learn=on&captions=fre_fr){transcript=true}
 
 ## Etape 3 - Test du message transactionnel
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34435?learn=on&captions=fre_fr){transcript=true}

@@ -23,4 +23,4 @@ Vous pouvez collecter des données à partir d&#39;un fichier pour les traiter e
 
 Cette vidéo explique comment utiliser les activités [!UICONTROL Data Management] dans un workflow pour importer des données de profil.
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31328?learn=on&captions=fre_fr){transcript=true}

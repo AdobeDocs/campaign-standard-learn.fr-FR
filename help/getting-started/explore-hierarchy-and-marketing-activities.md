@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Cette vidéo explique la hiérarchie des programmes et des campagnes, comment créer un programme marketing et comment créer une campagne marketing dans un programme.
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38381?learn=on&captions=fre_fr){transcript=true}
 

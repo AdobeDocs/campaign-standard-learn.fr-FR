@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Découvrez comment configurer des messages transactionnels à l&#39;aide de données d&#39;événement temps réel provenant des déclencheurs.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450204?learn=on&captions=fre_fr){transcript=true}

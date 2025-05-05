@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo propose une présentation approfondie d’[!UICONTROL Adobe Campaign Standard] et de ses principales fonctionnalités.
 
->[!VIDEO](https://video.tv.adobe.com/v/29430?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33570?learn=on&captions=fre_fr){transcript=true}

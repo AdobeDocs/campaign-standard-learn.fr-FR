@@ -31,7 +31,7 @@ L’intégration d’Adobe Campaign Standard avec Adobe Dreamweaver vous perm
 
 La vidéo explique les éléments requis pour activer l’intégration Dreamweaver. Elle montre aussi comment créer et modifier du contenu pour Adobe Campaign Standard à l’aide de Dreamweaver.
 
->[!VIDEO](https://video.tv.adobe.com/v/23121?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37569?learn=on&captions=fre_fr){transcript=true}
 
 *Comment utiliser l’intégration Dreamweaver dans Adobe Campaign (02:37 min)*
 

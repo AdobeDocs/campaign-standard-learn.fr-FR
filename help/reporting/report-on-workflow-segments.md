@@ -23,6 +23,6 @@ Après avoir créé un workflow et filtré votre population dans une audience ci
 
 Découvrez comment définir des segments dans votre workflow et les rendre aux rapports dynamiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33123?learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d’informations, voir la [documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=fr)

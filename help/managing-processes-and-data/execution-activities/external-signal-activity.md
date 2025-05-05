@@ -24,4 +24,4 @@ L’ [!UICONTROL activité Signal externe] permet d’organiser et d’orchestre
 
 Découvrez comment configurer l’ [!UICONTROL activité Signal externe] pour recevoir des paramètres** d’un système externe, personnaliser un workflow avec des paramètres externes et configurer une activité de fin pour appeler un workflow avec des paramètres externes.
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34366/?learn=on&captions=fre_fr){transcript=true}

@@ -27,7 +27,7 @@ ht-degree: 11%
 
 Découvrez comment vérifier l’état et modifier le mapping des données.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38491?learn=on&captions=fre_fr){transcript=true}
 
 ## Autres ressources
 

@@ -23,4 +23,4 @@ Les profils de test permettent de cibler des destinataires additionnels, qui ne 
 
 Cette vidéo explique comment créer des profils de test
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30595?learn=on&captions=fre_fr){transcript=true}

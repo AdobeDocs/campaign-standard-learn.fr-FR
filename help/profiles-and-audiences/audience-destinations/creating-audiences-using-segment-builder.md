@@ -33,6 +33,6 @@ Vous pouvez accéder au [!UICONTROL créateur de segments unifiés] directement 
 
 La vidéo ci-dessous explique comment une nouvelle audience est créée à l’aide du [!UICONTROL créateur de segments unifiés] dans Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38517?learn=on&captions=fre_fr){transcript=true}
 
 *Comment créer une audience dans Adobe Campaign Standard à l’aide du créateur de segments unifiés (min 02:47)*

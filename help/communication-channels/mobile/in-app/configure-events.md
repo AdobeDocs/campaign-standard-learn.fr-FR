@@ -21,4 +21,4 @@ ht-degree: 10%
 
 Identifiez l’action initiée par l’utilisateur qui déclenche un message in-app et découvrez comment configurer ces événements.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40908?learn=on&captions=fre_fr){transcript=true}

@@ -24,7 +24,7 @@ Le [!UICONTROL concepteur d’e-mail] permet la création visuelle rapide et sim
 
 Cette vidéo donne un aperçu général des fonctionnalités et de l’utilisation du [!UICONTROL concepteur d’e-mail] d’Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330100?learn=on&captions=fre_fr){transcript=true}
 
 ## Tutoriels
 

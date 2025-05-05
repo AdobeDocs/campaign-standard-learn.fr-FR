@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Cette vidéo donne une vue d’ensemble des fonctionnalités de reporting des performances d’Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23021?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38312?learn=on&captions=fre_fr){transcript=true}
 
 ## Autres ressources
 

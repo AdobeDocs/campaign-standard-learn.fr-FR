@@ -23,7 +23,7 @@ Adobe Campaign [!UICONTROL Dynamic Reports] est un environnement à structure li
 
 Cette vidéo explique comment créer un rapport basé sur des attributs de profil personnalisés.
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33109?learn=on&captions=fre_fr){transcript=true}
 
 ## Autres ressources
 

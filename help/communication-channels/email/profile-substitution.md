@@ -23,7 +23,7 @@ Cette vidéo explique comment tester vos emails à l’aide de la [!UICONTROL su
 
 Supposons que vous souhaitiez envoyer une newsletter personnalisée par email. Avant son envoi, un collègue souhaite toutefois l’examiner et a demandé des BAT. Vous pouvez utiliser les fonctionnalités de [!UICONTROL substitution de profil] pour envoyer un BAT, car il permet d’envoyer une représentation exacte du message que le profil ciblé recevra.
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424569?learn=on&captions=fre_fr){transcript=true}
 
 Pour plus d’informations, voir la [documentation détaillée du produit](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=fr).
 

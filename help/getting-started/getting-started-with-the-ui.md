@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo donne un aperçu de l’interface utilisateur d’Adobe Campaign Standard et explique comment accéder aux fonctionnalités clés et aux fonctions de base.
 
->[!VIDEO](https://video.tv.adobe.com/v/18469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424572?learn=on&captions=fre_fr){transcript=true}

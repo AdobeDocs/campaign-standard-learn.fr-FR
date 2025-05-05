@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment tester un e-mail avant de l’envoyer aux personnes auxquelles il est destiné.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446217/?learn=on&captions=fre_fr){transcript=true}

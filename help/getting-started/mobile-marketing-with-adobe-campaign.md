@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo présente les fonctionnalités Adobe Campaign Standard qui peuvent prendre en charge votre stratégie marketing mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33576?learn=on&captions=fre_fr){transcript=true}

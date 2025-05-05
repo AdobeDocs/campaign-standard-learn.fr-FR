@@ -27,6 +27,6 @@ ht-degree: 11%
 
 Découvrez comment mapper des données sources et des profils de test avec Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35548?learn=on&captions=fre_fr){transcript=true}
 
 Consultez la documentation du produit pour plus d’informations sur la [définition de mappage](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=fr) et l’ [activation de mappage](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=fr)

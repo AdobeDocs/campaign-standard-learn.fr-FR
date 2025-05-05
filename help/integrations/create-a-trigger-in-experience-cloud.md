@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Découvrez comment configurer des déclencheurs dans Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446140?learn=on&captions=fre_fr){transcript=true}

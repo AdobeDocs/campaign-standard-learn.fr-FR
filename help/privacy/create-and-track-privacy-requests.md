@@ -23,6 +23,6 @@ Adobe Campaign vous permet de créer des demandes d’accès aux informations p
 
 Découvrez comment créer manuellement des demandes d’accès aux informations personnelles et suivre leur évolution dans l’interface utilisateur d’Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340818?learn=on&captions=fre_fr){transcript=true}
 
 Consultez la documentation du produit pour obtenir plus d’informations sur les [Règles générales relatives aux informations personnelles pour Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=fr).

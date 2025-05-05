@@ -23,4 +23,4 @@ ht-degree: 33%
 
 Cette vidéo explique comment envoyer un email de test, préparer puis envoyer une diffusion email dans Adobe Campaign Standard (ACS).
 
->[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30236?learn=on&captions=fre_fr){transcript=true}

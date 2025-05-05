@@ -21,4 +21,4 @@ ht-degree: 12%
 
 Découvrez comment présenter à l’utilisateur des messages In-App pertinents du point de vue contextuel en réponse au comportement en temps réel d’un client dans l’application mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34766?learn=on&captions=fre_fr){transcript=true}

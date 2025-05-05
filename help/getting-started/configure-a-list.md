@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo explique comment modifier les colonnes affichées, l’ordre et l’ordre de tri d’une vue Liste dans Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30592/?learn=on&captions=fre_fr){transcript=true}

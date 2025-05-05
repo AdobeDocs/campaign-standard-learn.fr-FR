@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Dans Adobe Campaign, les demandes d’accès à des informations personnelles sont exécutées par des workflows. Cette vidéo décrit les workflows qui accèdent aux demandes et les suppriment, ainsi que ce qui se passe lorsqu’elles sont exécutées.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327320?learn=on&captions=fre_fr){transcript=true}

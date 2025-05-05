@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Découvrez comment configurer Microsoft® Dynamics 365 pour une utilisation dans lʼintégration Dynamics et Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27637?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34836?learn=on&captions=fre_fr){transcript=true}
 
 Consultez la documentation du produit pour obtenir plus dʼinformations sur la [Prise en main de l’intégration Microsoft® Dynamics 365](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=fr).

@@ -21,4 +21,4 @@ ht-degree: 13%
 
 Cette vidéo explique comment créer un profil et comment l’ajouter à une audience.
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30593/?learn=on&captions=fre_fr){transcript=true}

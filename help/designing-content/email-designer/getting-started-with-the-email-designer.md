@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo explique les fonctionnalités générales du [!UICONTROL concepteur d’e-mail] et comment créer entièrement un email.
 
->[!VIDEO](https://video.tv.adobe.com/v/25912?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326666?learn=on&captions=fre_fr){transcript=true}

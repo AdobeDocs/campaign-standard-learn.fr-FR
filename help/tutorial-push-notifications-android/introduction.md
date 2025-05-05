@@ -24,7 +24,7 @@ Ce tutoriel vous guide tout au long des étapes nécessaires à l&#39;envoi de n
 ## Conditions préalables requises
 
 * La propriété de lancement doit être configurée avec l’extension Adobe Campaign Standard. Veuillez suivre l’aide en ligne ci-dessous.
-   * [Tutoriel vidéo](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+   * [Tutoriel vidéo](https://video.tv.adobe.com/v/40901?learn=on&captions=fre_fr){transcript=true}
    * [Documentation](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=fr)
 
 * Vérifiez que le statut de la propriété correspondante dans Adobe Campaign Standard est défini sur &#39;Configuré&#39;.

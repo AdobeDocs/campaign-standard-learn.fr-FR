@@ -23,7 +23,7 @@ Le canal [!UICONTROL Courrier] vous permet d’extraire une liste segmentée de 
 
 Cette vidéo explique comment configurer une diffusion [!UICONTROL courrier] et les paramètres requis pour pouvoir ajouter un profil à une diffusion [!UICONTROL courrier].
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30953?learn=on&captions=fre_fr){transcript=true}
 
 ## Créer un [!UICONTROL courrier] dans un workflow
 
