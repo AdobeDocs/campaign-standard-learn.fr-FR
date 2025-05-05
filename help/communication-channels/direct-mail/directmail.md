@@ -31,4 +31,4 @@ Le canal est disponible à partir de la page d’accueil et dans la vue du workf
 
 ![Image de workflow](/help/assets/direct_mail_examplewf.png)
 
-Consultez la documentation du produit pour en savoir plus [sur Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Consultez la documentation du produit pour en savoir plus [sur Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=fr)

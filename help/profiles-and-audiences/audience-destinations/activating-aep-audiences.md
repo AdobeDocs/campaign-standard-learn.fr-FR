@@ -33,4 +33,4 @@ Cette vidéo explique comment activer l’[!UICONTROL &#x200B; audience de requ�
 
 *Activer une audience Adobe Experience Platform dans un workflow (02:37 min)*
 
-Consultez la documentation du produit sur la façon d&#39;[ingérer des audiences Adobe Experience Platform dans Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+Consultez la documentation du produit sur la façon d&#39;[ingérer des audiences Adobe Experience Platform dans Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=fr)

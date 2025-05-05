@@ -30,4 +30,4 @@ Cette vidéo vous montrera comment créer et modifier un workflow dans Adobe Ca
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
-Consultez la documentation du produit pour plus d’informations sur [Création d’un workflow (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+Consultez la documentation du produit pour plus d’informations sur [Création d’un workflow (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=fr)

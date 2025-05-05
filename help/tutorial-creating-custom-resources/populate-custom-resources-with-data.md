@@ -21,4 +21,4 @@ Découvrez comment renseigner des ressources personnalisées avec des données d
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-Pour plus d’informations sur la manière de renseigner des ressources personnalisées via un [!DNL API], consultez la documentation : [Interaction avec des ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).
+Pour plus d’informations sur la manière de renseigner des ressources personnalisées via un [!DNL API], consultez la documentation : [Interaction avec des ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=fr).

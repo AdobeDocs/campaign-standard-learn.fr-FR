@@ -58,7 +58,7 @@ Consultez la capture d&#39;écran de l&#39;activité de réconciliation comme il
 
 ![workflow avec détails de réconciliation](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-En savoir plus sur la [ réconciliation ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+En savoir plus sur la [ réconciliation ](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Erreur de jeu de données de champ commun
 

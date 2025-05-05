@@ -32,5 +32,5 @@ Si tout se passe bien, une notification doit s’afficher dans votre application
 
 ## Autres ressources
 
-* [Documentation détaillée sur les notifications push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [Documentation détaillée sur les notifications push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=fr)
 * [Création d’une notification push (vidéo)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

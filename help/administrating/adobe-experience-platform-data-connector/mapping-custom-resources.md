@@ -29,4 +29,4 @@ Découvrez comment mapper différents types de données entre Adobe Campaign Sta
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
 
-Consultez la documentation du produit pour plus d’informations sur la [définition du mappage](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+Consultez la documentation du produit pour plus d’informations sur la [définition du mappage](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=fr)

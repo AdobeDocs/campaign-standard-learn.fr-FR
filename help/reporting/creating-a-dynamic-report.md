@@ -27,4 +27,4 @@ Découvrez comment créer un rapport.
 
 ## Autres ressources
 
-* [À propos de la création de rapports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [À propos de la création de rapports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=fr)

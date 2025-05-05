@@ -28,4 +28,4 @@ Pour créer des [!UICONTROL règles de fatigue], vous devez définir un nombre m
 
 ## Autres ressources
 
-* [Règles de fatigue (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [Règles de fatigue (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html?lang=fr)
