@@ -17,7 +17,7 @@ ht-degree: 16%
 
 ---
 
-# Mappage de [!UICONTROL  événements d’expérience]
+# Mappage de [!UICONTROL &#x200B; événements d’expérience]
 
 >[!NOTE]
 >

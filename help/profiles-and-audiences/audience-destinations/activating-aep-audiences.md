@@ -27,7 +27,7 @@ ht-degree: 7%
 >
 >Contactez le [!UICONTROL service clientèle d’Adobe] si vous envisagez d’implémenter cette fonctionnalité.
 
-Cette vidéo explique comment activer l’[!UICONTROL  audience de requête de services de données ] dans un workflow à l’aide de l’activité [!UICONTROL Lecture d’audience] .
+Cette vidéo explique comment activer l’[!UICONTROL &#x200B; audience de requête de services de données &#x200B;] dans un workflow à l’aide de l’activité [!UICONTROL Lecture d’audience] .
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 

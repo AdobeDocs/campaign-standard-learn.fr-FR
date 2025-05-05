@@ -59,7 +59,7 @@ Une fois l’intégration de votre application avec Firebase réussie, vous devr
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[ Assurez-vous que votre projet est répertorié dans la  [!DNL Firebase ]console](https://console.firebase.google.com/)
+[ Assurez-vous que votre projet est répertorié dans la  [!DNL Firebase &#x200B;]console](https://console.firebase.google.com/)
 
 ## Configuration des paramètres [!UICONTROL Canal push]
 
@@ -76,7 +76,7 @@ Une fois l’intégration de votre application avec Firebase réussie, vous devr
 
 6. Connexion à votre instance Adobe Campaign Standard
 7. Cliquez sur **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Canaux]** > **[!UICONTROL Application mobile].**
-8. Sélectionnez la **[!UICONTROL propriété d’application mobile ] appropriée.**
+8. Sélectionnez la **[!UICONTROL propriété d’application mobile &#x200B;] appropriée.**
 9. Cliquez sur l’icône **[!DNL Android]** dans la section **[!UICONTROL Paramètres du canal push]** .
 10. Collez la clé du serveur dans le champ Clé du serveur .
 

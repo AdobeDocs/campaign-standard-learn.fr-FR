@@ -25,7 +25,7 @@ Adobe Campaign vous permet d’envoyer des [!UICONTROL notifications push] perso
 
 * **[!UICONTROL Envoyer une notification push aux profils Campaign]** : vous permet de cibler les profils CRM Adobe Campaign qui se sont abonnés à votre application mobile et ont choisi de recevoir des [!UICONTROL notifications push]. Vous pouvez insérer des champs de personnalisation dans votre [!UICONTROL notification push], tels que le prénom du destinataire.
 
-* **[!UICONTROL Envoyer une notification push aux abonnés de l&#39;application]** : vous permet d&#39;envoyer une [!UICONTROL  notification push] à tous les utilisateurs anonymes ou connus qui se sont inscrits pour recevoir des notifications de votre application. Vous pouvez personnaliser ces messages avec les données collectées à partir de votre application mobile.
+* **[!UICONTROL Envoyer une notification push aux abonnés de l&#39;application]** : vous permet d&#39;envoyer une [!UICONTROL &#x200B; notification push] à tous les utilisateurs anonymes ou connus qui se sont inscrits pour recevoir des notifications de votre application. Vous pouvez personnaliser ces messages avec les données collectées à partir de votre application mobile.
 
 La vidéo décrit comment envoyer un [!DNL push notification to app subscribers].
 

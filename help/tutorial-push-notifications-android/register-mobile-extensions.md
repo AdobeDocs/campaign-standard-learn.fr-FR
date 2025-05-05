@@ -70,6 +70,6 @@ try{
 }
 ```
 
-Ligne 32, vous devez fournir l’identifiant de fichier d’environnement de la propriété [!UICONTROL  Launch]. Vous pouvez y accéder à partir de l’onglet [!UICONTROL environnement] de votre propriété [!UICONTROL Launch].
+Ligne 32, vous devez fournir l’identifiant de fichier d’environnement de la propriété [!UICONTROL &#x200B; Launch]. Vous pouvez y accéder à partir de l’onglet [!UICONTROL environnement] de votre propriété [!UICONTROL Launch].
 
 ![launch-id](assets/launch-id-property.PNG)
