@@ -59,7 +59,7 @@ Une fois l’intégration de votre application avec Firebase réussie, vous devr
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[ Assurez-vous que votre projet est répertorié dans la  [!DNL Firebase &#x200B;]console](https://console.firebase.google.com/)
+[&#x200B; Assurez-vous que votre projet est répertorié dans la  [!DNL Firebase &#x200B;]console](https://console.firebase.google.com/)
 
 ## Configuration des paramètres [!UICONTROL Canal push]
 

@@ -58,7 +58,7 @@ Consultez la capture d&#39;écran de l&#39;activité de réconciliation comme il
 
 ![workflow avec détails de réconciliation](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-En savoir plus sur la [ réconciliation ](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+En savoir plus sur la [&#x200B; réconciliation &#x200B;](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Erreur de jeu de données de champ commun
 
@@ -81,7 +81,7 @@ Il existe deux manières de résoudre cette erreur :
 
 2. Utilisez la méthode d&#39;exclusion JOINS pour sélectionner le champ en fonction duquel vous souhaitez exclure les enregistrements.
 
-![Erreur de jeu de données de champ commun - ](/help/assets/kt-13256/dataset-error-solution.png) de solution
+![Erreur de jeu de données de champ commun - &#x200B;](/help/assets/kt-13256/dataset-error-solution.png) de solution
 
 ## Erreur de suppression du nom du champ
 
@@ -114,7 +114,7 @@ Vous pouvez résoudre cette erreur de trois façons :
 **Cause :**
 Il s’agit d’une erreur courante dans les workflows complexes impliquant un enrichissement ou une autre activité. Cela signifie probablement que certains workflows d’activité ne sont pas correctement enregistrés lors de plusieurs modifications apportées au workflow.
 
-![Erreur de table temporaire ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Erreur de table temporaire &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Solution :**
 Cette erreur peut se produire de nombreuses façons. Il n’existe donc pas de solution simple. S’il s’agit d’un workflow simple, il est préférable de reconfigurer l’activité. Dans un workflow complexe, il est préférable de copier les activités de workflow dans un nouveau workflow, de les enregistrer et de les réexécuter.
