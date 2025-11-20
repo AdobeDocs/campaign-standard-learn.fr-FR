@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Tutoriels sur Adobe Campaign Standard {#tutorials}
 
 + [Tutoriels sur Adobe Campaign Standard](/help/overview.md)
-+ Prise en main {#getting-started}
++ Commencer {#getting-started}
    + [Présentation d&#39;Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Prise en main de l’interface utilisateur](/help/getting-started/getting-started-with-the-ui.md)
    + [Configuration d’une liste](/help/getting-started/configure-a-list.md)
@@ -32,31 +32,31 @@ ht-degree: 100%
    + [Créer un profil de test](/help/profiles-and-audiences/test-profiles.md)
    + [Importer des profils avec un workflow](/help/managing-processes-and-data/importing-profiles.md)
    + [Gérer les services et les abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Audience Destinations (version bêta){#audience-destinations}
-      + [Vue d&#39;ensemble](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+   + Audience Destinations (BETA){#audience-destinations}
+      + [Vue d’ensemble](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Créer une audience à l&#39;aide du Créateur de segments unifiés](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Activer les audiences d&#39;Adobe Experience Platform dans un workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Modifier la dimension de ciblage](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canaux de communication {#communication-channels}
-   + Email {#email}
+   + E-mail {#email}
       + [Créer un email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Envoyer un test, préparer et envoyer un email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Planifier des messages](/help/communication-channels/email/schedule-messages.md)
       + [Envoyer un BAT](/help/communication-channels/email/send-a-proof.md)
       + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
-      + [Tester des emails à l&#39;aide des profils ciblés](/help/communication-channels/email/profile-substitution.md)
+      + [Tester des e-mails à l’aide des profils ciblés](/help/communication-channels/email/profile-substitution.md)
       + [Ajout d&#39;une population témoin à une diffusion](/help/communication-channels/email/control-groups.md)
       + [Créer un email multilingue ou une diffusion SMS](/help/communication-channels/create-multilingual-deliveries.md)
       + [Convertir un email, une diffusion SMS ou un modèle de diffusion existant en plusieurs langues](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Vérifier une diffusion Email et des rapports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Créer et envoyer des emails via un workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + Emails optimisés par l&#39;IA {#journey-ai}
+      + E-mails optimisés par l&#39;IA {#journey-ai}
          + [Optimisation de l&#39;heure d&#39;envoi prédictive](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Score prédictif de l&#39;engagement](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobile {#mobile}
       + SMS{#sms}
          + [Création d’une diffusion SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-      + Notifications push {#push}
+      + Notifications Push {#push}
          + [Créer une notification push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Créer une notification push multilingue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [Tutoriel : Prise en main des notifications push pour Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=fr)
@@ -68,13 +68,13 @@ ht-degree: 100%
          + [Créer un rapport sur votre diffusion In-App](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Configurer une application mobile à l&#39;aide d&#39;un SDK Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Canal Courrier](/help/communication-channels/direct-mail/directmail.md)
-   + Landing pages {#landing-pages}
+   + Pages de destination {#landing-pages}
       + [Créer et modifier une landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Tester et publier une landing page](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Configurer un modèle de landing page](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Conception et personnalisation de contenu {#designing-content}
    + Concepteur d’e-mail{#email-designer}
-      + [Vue d&#39;ensemble](/help/designing-content/email-designer/email-designer-overview.md)
+      + [Vue d’ensemble](/help/designing-content/email-designer/email-designer-overview.md)
       + [Prise en main du concepteur d’e-mail](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Présentation des modèles de contenu d&#39;email](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurer la vue mobile](/help/designing-content/email-designer/configure-the-mobile-view.md)
@@ -86,7 +86,7 @@ ht-degree: 100%
    + [Créer un workflow](/help/managing-processes-and-data/creating-a-workflow.md)
    + Activités d&#39;exécution {#execution-activities}
       + [Activité Signal externe](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
-   + Activités de Data Management {#data-management-activities}
+   + Activités De Data Management {#data-management-activities}
       + [Activité API externe](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Rapport et surveillance {#reporting}
    + [Exploration des rapports](/help/getting-started/exploring-reports.md)
@@ -103,11 +103,11 @@ ht-degree: 100%
       + [Créer un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configuration de messages transactionnels à l&#39;aide de données d&#39;événement temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configurer Microsoft](/help/integrations/configure-dynamics-365.md)
-+ Administration de {#administrating}
++ Administration {#administrating}
    + [Gestion des droits d&#39;accès des utilisateurs](/help/administrating/managing-user-access-rights.md)
    + [Création de ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=fr)
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target="_blank"}
-   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
+   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Présentation d&#39;Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mapping de ressources personnalisées](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mise en correspondance des événements Experience](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
@@ -115,10 +115,10 @@ ht-degree: 100%
       + [Modification du mapping des données](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [Vérification de l&#39;état d’un traitement d&#39;ingestion de données](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Règles de typologie{#typology-rules}
-      + Gestion de la fatigue{#fatigue-management}
+      + Gestion de la lassitude{#fatigue-management}
          + [Création de règles de fatigue](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Confidentialité {#privacy}
-   + [Vue d&#39;ensemble](/help/privacy/privacy-overview.md)
+   + [Vue d’ensemble](/help/privacy/privacy-overview.md)
    + [Création d&#39;espaces de noms pour les demandes d&#39;accès à des informations personnelles](/help/privacy/namespaces-for-privacy-requests.md)
    + [Modification des ressources personnalisées pour les demandes d&#39;accès à des informations personnelles](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Création et suivi manuels des demandes d&#39;accès à des informations personnelles](/help/privacy/create-and-track-privacy-requests.md)
