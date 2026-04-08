@@ -7,8 +7,8 @@ level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
-workflow-type: tm+mt
-source-wordcount: '1475'
+workflow-type: ht
+source-wordcount: '1497'
 ht-degree: 100%
 
 ---
@@ -44,7 +44,7 @@ De novembre à début janvier, le volume des e-mails marketing envoyés augmente
 
 Voici quatre stratégies clés pour optimiser votre ROI :
 
-### 1. Préparez votre calendrier de contenu
+### &#x200B;1. Préparer votre calendrier de contenu
 
 * Les FAI effectuent le suivi de votre moyenne d’envoi à partir d’une adresse IP ; distribuez donc le volume autant que possible pour éviter de créer une alerte et d’envoyer votre contenu vers le dossier des spams.
 * Mettez en place votre calendrier de contenu à l’avance et préparez les auteurs de contenu à une augmentation du volume d’envoi.
@@ -60,7 +60,7 @@ Voici quatre stratégies clés pour optimiser votre ROI :
    * Existe-t-il des problèmes ou des blocages potentiels avec un FAI spécifique ?
    * Connaître vos problèmes avant de commencer à envoyer un volume élevé afin d’éviter les mauvaises surprises et les mauvaises performances de la campagne
 
-### 3. Données
+### &#x200B;3. Données
 
 * Identifiez toutes les techniques d’acquisition, en particulier vos processus d’inscription et le RGPD.
 * Soyez aussi transparent que possible avec vos abonnés lorsque vous demandez leur adresse e-mail :
@@ -68,10 +68,10 @@ Voici quatre stratégies clés pour optimiser votre ROI :
    * Combien d&#39;e-mails allez-vous envoyer (quotidien, hebdomadaire, mensuel) ?
 
 * Envoyez un e-mail de bienvenue aux nouveaux abonnés :
-   * Les e-mails de bienvenue permettent de s’assurer que les abonnés ne sont pas désagréablement surpris par du nouveau contenu et ne se désabonnent pas ou ne le signalent pas comme spam.
+   * Les e-mails de bienvenue permettent de s’assurer que les profils abonnés ne sont pas pris au dépourvu par du nouveau contenu et ne se désabonnent pas ou ne le signalent pas comme spam.
    * Les e-mails de bienvenue constituent également un bon indicateur de performances. S&#39;ils ne sont pas diffusés avec succès ou si les abonnés n’interagissent pas avec eux, vous savez que c&#39;est un signe de mauvaises performances ou de mauvaise collecte de données.
 
-### 4. Gestion des e-mails
+### &#x200B;4. Gestion des e-mails
 
 * Segmenter vos abonnés et surveiller où ils se trouvent dans le cycle de vie de votre marque
 * Utiliser des stratégies de personnalisation du contenu pour améliorer la pertinence de vos e-mails
@@ -88,9 +88,9 @@ Les mesures clés à surveiller sont les suivantes :
 
 Malheureusement, la plupart des abonnés lassés par vos e-mails ne vous faciliteront pas la tâche. Ils ne se désabonneront pas par eux-mêmes, ce qui indique clairement qu&#39;ils ne sont pas satisfaits du contenu. Nombre d’entre eux suppriment simplement vos e-mails ou les ignorent, de sorte que vous pouvez toujours voir les ouvertures d’abonnés qui ne sont pas engagés. Si vous ne réagissez pas aux changements d&#39;habitudes de vos abonnés, cela peut nuire à votre réputation en tant qu’expéditeur et donc à votre succès global.
 
-Vous trouverez ci-dessous quelques bonnes pratiques pour maintenir l’engagement de vos abonnés et anticiper le type de contenu qu’ils souhaitent recevoir, afin d’éviter les désabonnements et les audiences inactives.
+Vous trouverez ci-dessous quelques bonnes pratiques pour maintenir l’engagement des profils abonnés et anticiper le type de contenu qu’ils souhaitent recevoir, afin d’éviter les désabonnements et les audiences inactives.
 
-### 1. Créer une stratégie pour la fréquence des e-mails
+### &#x200B;1. Créer une stratégie pour la fréquence des e-mails
 
 Il n’existe malheureusement pas de réponse quant au nombre d&#39;e-mails à envoyer par semaine. Pour déterminer le bon nombre, tenez compte des éléments suivants :
 
@@ -102,7 +102,7 @@ Il n’existe malheureusement pas de réponse quant au nombre d&#39;e-mails à e
 * Quelle est la capacité de votre client à recevoir du contenu de votre marque ?
 * Quelles sont les préférences saisonnières de vos clients ?
 
-### 2. Identifier le statut de vos abonnés
+### &#x200B;2. Identifier le statut de vos abonnés
 
 Le statut de vos abonnés (actif, obsolète ou inactif) dépend de la fréquence à laquelle vous leur envoyez du contenu. De là, vous pouvez déterminer leur engagement.
 
@@ -114,7 +114,7 @@ Si, par exemple, vous envoyez un e-mail quotidien à des clients, ils doivent av
 
 Pour les utilisateurs obsolètes ou inactifs, pensez à regarder la date à laquelle ils se sont abonnés afin de déterminer leur niveau d’engagement Par exemple, ont-ils souscrit à la date d&#39;un concours ou d&#39;une autre campagne marketing ? Se sont-ils inscrits dans un pop-up de site web avec une offre de réduction ? Une fois que vous avez identifié vos utilisateurs inactifs, il est important de modifier votre stratégie afin d’améliorer leur satisfaction et de les transformer en des abonnés actifs.
 
-### 3. Mettre en œuvre des stratégies de réengagement
+### &#x200B;3. Mettre en œuvre des stratégies de réengagement
 
 Décomposez ce processus en deux domaines d’intervention : a) modèles d’envoi des e-mails et b) contenu créatif des e-mails. Voici un aperçu plus détaillé de chacun de ces domaines :
 

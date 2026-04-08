@@ -11,8 +11,8 @@ level: Experienced
 team: TM
 exl-id: da796c3f-ba35-4901-8021-3f497c64ba3a
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '58'
+workflow-type: ht
+source-wordcount: '56'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Dans Adobe Campaign, les demandes d’accès à des informations personnelles sont exécutées par des workflows. Cette vidéo décrit les workflows qui accèdent aux demandes et les suppriment, ainsi que ce qui se passe lorsqu’elles sont exécutées.
 
->[!VIDEO](https://video.tv.adobe.com/v/327320?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22770?learn=on){transcript=true}

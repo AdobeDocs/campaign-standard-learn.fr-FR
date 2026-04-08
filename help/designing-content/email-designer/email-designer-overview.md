@@ -12,8 +12,8 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '131'
+workflow-type: ht
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ Le [!UICONTROL concepteur d’e-mail] permet la création visuelle rapide et sim
 
 Cette vidéo donne un aperçu général des fonctionnalités et de l’utilisation du [!UICONTROL concepteur d’e-mail] d’Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/330100?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22771?learn=on){transcript=true}
 
 ## Tutoriels
 

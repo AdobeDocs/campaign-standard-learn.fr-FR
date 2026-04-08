@@ -11,8 +11,8 @@ exl-id: c5490a49-f4e4-4fe0-8132-1893252a9a4d
 role: User
 level: Beginner
 source-git-commit: 5972050bc3245b779a3532a257917d4449b063c0
-workflow-type: tm+mt
-source-wordcount: '54'
+workflow-type: ht
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo explique comment modifier les colonnes affichées, l’ordre et l’ordre de tri d’une vue Liste dans Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/30592/?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}

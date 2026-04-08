@@ -11,19 +11,19 @@ exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '157'
+workflow-type: ht
+source-wordcount: '191'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Substitution de profil] - Tester des e-mails à l’aide des profils ciblés
 
-Cette vidéo explique comment tester vos emails à l’aide de la [!UICONTROL substitution de profil]. Elle couvre les cas pratiques suivants :
+Cette vidéo explique comment tester vos e-mails à l’aide de la [!UICONTROL substitution de profil]. Elle couvre les cas pratiques suivants :
 
 Supposons que vous souhaitiez envoyer une newsletter personnalisée par email. Avant son envoi, un collègue souhaite toutefois l’examiner et a demandé des BAT. Vous pouvez utiliser les fonctionnalités de [!UICONTROL substitution de profil] pour envoyer un BAT, car il permet d’envoyer une représentation exacte du message que le profil ciblé recevra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424569?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
 
 Pour plus d’informations, voir la [documentation détaillée du produit](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=fr).
 

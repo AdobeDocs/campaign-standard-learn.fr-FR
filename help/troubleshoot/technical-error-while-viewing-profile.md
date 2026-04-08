@@ -8,8 +8,8 @@ type: Troubleshooting
 jira: KT-8385
 exl-id: 3c1901eb-8c53-4776-b79a-c76b732b905b
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '54'
+workflow-type: ht
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment résoudre une erreur technique qui se produit lors de l’affichage d’un profil dans Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436598?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}

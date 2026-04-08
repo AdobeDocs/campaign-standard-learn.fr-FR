@@ -6,15 +6,15 @@ exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
 source-git-commit: de9f1bc51e95330b3c6a04426d11de2aea845697
-workflow-type: tm+mt
-source-wordcount: '199'
+workflow-type: ht
+source-wordcount: '251'
 ht-degree: 100%
 
 ---
 
 # Tutoriels sur Adobe Campaign Standard
 
-Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
+Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l’orchestration visuelle de campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -31,7 +31,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 <tr>
   <td>
     <a href="./communication-channels/email/profile-substitution.md"> 
-      <img alt="Substitution de profil - Test des emails à l’aide des profils ciblés(vidéo)" src="./assets/substitution_tab.png"/>
+      <img alt="Substitution de profil - Test des e-mails à l’aide des profils ciblés(vidéo)" src="./assets/substitution_tab.png"/>
     </a>
     <div>
       <a href="./communication-channels/email/profile-substitution.md">

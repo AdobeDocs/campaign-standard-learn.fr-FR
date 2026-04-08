@@ -11,8 +11,8 @@ team: TM
 hidefromtoc: false
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
-workflow-type: tm+mt
-source-wordcount: '89'
+workflow-type: ht
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ Dans les tutoriels suivants, vous apprendrez à configurer et à utiliser des d�
 Avant de pouvoir utiliser un déclencheur dans un message transactionnel, vous devez effectuer les opérations suivantes :
 
 1. [Configurer la collecte de données Adobe Experience Platform pour les triggers](/help/integrations/configure-launch-for-triggers.md)
-2. [Créer un trigger dans Experience Cloud](https://experienceleague.adobe.com/fr/docs/core-services/interface/triggers)
+2. [Création d&#39;un déclencheur dans Experience Cloud](https://experienceleague.adobe.com/fr/docs/core-services/interface/triggers)
 3. [Créer un événement déclencheur dans Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
 Une fois le déclencheur configuré, il vous permet de [configurer des messages transactionnels à l’aide de données d’événements en temps réel](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).

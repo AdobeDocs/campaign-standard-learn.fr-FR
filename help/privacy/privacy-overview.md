@@ -11,8 +11,8 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
-workflow-type: tm+mt
-source-wordcount: '193'
+workflow-type: ht
+source-wordcount: '238'
 ht-degree: 100%
 
 ---
@@ -39,9 +39,9 @@ Adobe Campaign offre aux contrôleurs de données trois méthodes permettant de
 * [Création et suivi des demandes d’accès à des informations personnelles via l’interface utilisateur d’Adobe Campaign](/help/privacy/create-and-track-privacy-requests.md)
 * [Exécution des demandes d’accès à des informations personnelles](/help/privacy/execute-privacy-requests.md)
 
-## Ressources supplémentaires
+## Autres ressources
 
-* [Règles générales relatives aux informations à caractère personnel concernant Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=fr#getting-started)
+* [Règles générales relatives à la confidentialité concernant Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=fr#getting-started)
 * [CCPA pour ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=fr#privacy-requests)
 * [Adobe Experience Platform Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr)
 * [Documentation de l’API REST d’Adobe Campaign Standard](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)

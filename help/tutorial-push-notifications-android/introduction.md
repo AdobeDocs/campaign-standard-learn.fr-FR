@@ -9,8 +9,8 @@ team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '193'
+workflow-type: ht
+source-wordcount: '211'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ Ce tutoriel vous guide tout au long des étapes nécessaires à l&#39;envoi de n
 ## Conditions préalables requises
 
 * La propriété de lancement doit être configurée avec l’extension Adobe Campaign Standard. Veuillez suivre l’aide en ligne ci-dessous.
-   * [Tutoriel vidéo](https://video.tv.adobe.com/v/40901?learn=on&captions=fre_fr){transcript=true}
+   * [Tutoriel vidéo](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [Documentation](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=fr)
 
 * Vérifiez que le statut de la propriété correspondante dans Adobe Campaign Standard est défini sur &#39;Configuré&#39;.
