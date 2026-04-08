@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo explique le concept des profils et des audiences et comment en créer.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38373?captions=fre_fr&learn=on){transcript=true}

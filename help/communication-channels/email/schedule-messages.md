@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment planifier une diffusion e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415919/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420638/?captions=fre_fr&learn=on){transcript=true}

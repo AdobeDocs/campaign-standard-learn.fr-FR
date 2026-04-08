@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Découvrez comment créer un événement déclencheur dans Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446411?captions=fre_fr&learn=on){transcript=true}
