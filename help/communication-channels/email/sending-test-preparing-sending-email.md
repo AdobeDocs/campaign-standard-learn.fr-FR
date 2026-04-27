@@ -1,6 +1,6 @@
 ---
 title: Envoyer un test, préparer et envoyer un email
-description: "Découvrez comment envoyer un email de test, préparer, puis envoyer la diffusion email. "
+description: 'Découvrez comment envoyer un e-mail de test, préparer, puis envoyer la diffusion e-mail. '
 feature: Email, Test Profiles
 jira: KT-1812
 thumbnail: 24013.jpg
@@ -12,10 +12,10 @@ role: User
 level: Beginner
 hidefromtoc: true
 hide: true
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 33%
+source-wordcount: '51'
+ht-degree: 31%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 33%
 
 Cette vidéo explique comment envoyer un email de test, préparer puis envoyer une diffusion email dans Adobe Campaign Standard (ACS).
 
->[!VIDEO](https://video.tv.adobe.com/v/30236?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}
