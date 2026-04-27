@@ -29,4 +29,4 @@ ht-degree: 3%
 
 Cette vidéo explique comment modifier la dimension de ciblage d’une diffusion pour une [!UICONTROL audience Platform] en dehors du tableau de profil principal dans Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/32931?captions=fre_fr&learn=on){transcript=true}

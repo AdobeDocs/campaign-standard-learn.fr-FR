@@ -29,7 +29,7 @@ ht-degree: 5%
 
 Cette vidéo explique comment activer l’[!UICONTROL audience de requête des services de données] dans un workflow à l’aide de l’activité [!UICONTROL Lecture d’audience].
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34365?captions=fre_fr&learn=on){transcript=true}
 
 *Activer une audience Adobe Experience Platform dans un workflow (02:37 min)*
 
