@@ -27,7 +27,7 @@ ht-degree: 8%
 >
 >Contactez le [!UICONTROL service clientèle d’Adobe] si vous envisagez de mettre en œuvre cette fonctionnalité.
 
-Adobe Campaign Standard vous permet de créer des audiences à l’aide des données du Adobe Experience Cloud [profil client en temps réel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) à l’aide du Adobe Experience Platform [!UICONTROL créateur de segments unifiés].
+Adobe Campaign Standard vous permet de créer des audiences à l’aide des données du Adobe Experience Cloud [profil client en temps réel](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=fr) à l’aide du Adobe Experience Platform [!UICONTROL créateur de segments unifiés].
 
 Vous pouvez accéder au [!UICONTROL Créateur de segments unifiés] directement dans Adobe Campaign Standard via le module [!UICONTROL Audiences]. Il permet de gérer ces audiences directement dans la vue de liste [!UICONTROL Audiences], où vous pouvez modifier ou créer une audience Adobe Experience Platform directement à partir de l’interface d’Adobe Campaign
 
