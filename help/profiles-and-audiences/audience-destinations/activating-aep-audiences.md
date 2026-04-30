@@ -11,8 +11,7 @@ exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-hidefromtoc: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 5%
@@ -25,7 +24,7 @@ ht-degree: 5%
 >
 >Cette fonctionnalité est en version bêta et est sujette à de fréquentes mises à jour et modifications sans préavis. [!UICONTROL Audience Destinations] est basé sur Adobe Experience Platform et nécessite une configuration spécifique.
 >
->Contactez le [!UICONTROL service clientèle d’Adobe] si vous envisagez de mettre en œuvre cette fonctionnalité.
+>Contactez le [!UICONTROL service clientèle d’] si vous envisagez de mettre en œuvre cette fonctionnalité.
 
 Cette vidéo explique comment activer l’[!UICONTROL audience de requête des services de données] dans un workflow à l’aide de l’activité [!UICONTROL Lecture d’audience].
 
