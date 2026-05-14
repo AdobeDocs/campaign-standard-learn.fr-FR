@@ -36,4 +36,4 @@ Découvrez comment définir des segments dans votre workflow et les associer à 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-Pour plus d’informations, voir la [documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Pour plus d’informations, voir la [documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=fr)

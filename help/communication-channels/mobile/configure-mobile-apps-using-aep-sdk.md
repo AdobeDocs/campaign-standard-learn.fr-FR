@@ -34,4 +34,4 @@ Les vidéos ci-dessous montrent les étapes requises pour configurer une applica
 
 >[!NOTE]
 >
->Voir [Configuration de votre application dans [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) pour consulter la documentation détaillée et les modèles de code utilisés dans la vidéo.
+>Voir [Configuration de votre application dans [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=fr) pour consulter la documentation détaillée et les modèles de code utilisés dans la vidéo.
