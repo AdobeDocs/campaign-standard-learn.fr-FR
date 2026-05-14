@@ -40,4 +40,4 @@ Chaque service est fourni avec :
 
 Cette vidéo vous explique comment créer un service et gérer ses abonnements.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30956?captions=fre_fr&learn=on){transcript=true}

@@ -32,7 +32,7 @@ Les [!UICONTROL rapports dynamiques] d’Adobe Campaign sont un environnement à
 
 Découvrez comment créer un rapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30594/?captions=fre_fr&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

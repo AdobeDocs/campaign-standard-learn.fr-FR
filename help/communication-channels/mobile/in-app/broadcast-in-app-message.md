@@ -30,4 +30,4 @@ ht-degree: 22%
 
 Découvrez comment configurer et utiliser le modèle de diffusion pour cibler tous les utilisateurs de votre application mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40915?captions=fre_fr&learn=on){transcript=true}

@@ -32,4 +32,4 @@ ht-degree: 12%
 
 Découvrez comment utiliser l’activité de diffusion In-App pour automatiser l’envoi d’un message In-App à une audience cible calculée dans un workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38569?captions=fre_fr&learn=on){transcript=true}

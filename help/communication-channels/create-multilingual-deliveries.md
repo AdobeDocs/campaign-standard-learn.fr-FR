@@ -32,4 +32,4 @@ Adobe Campaign vous permet de simplifier la complexité opérationnelle de l’e
 
 Cette vidéo explique comment créer une diffusion multilingue à partir d&#39;un modèle basé sur l&#39;exemple d&#39;une newsletter e-mail. L’approche présentée dans les vidéos s’applique à la fois aux diffusions par e-mail et par SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37567?captions=fre_fr&learn=on){transcript=true}

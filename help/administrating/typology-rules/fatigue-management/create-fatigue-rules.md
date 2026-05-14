@@ -31,7 +31,7 @@ ht-degree: 20%
 [!UICONTROL Les règles de fatigue] permettent aux spécialistes marketing de définir des règles métier cross-canal globales qui excluront automatiquement les profils sur-sollicités des campagnes.
 Pour créer des [!UICONTROL règles de fatigue], vous devez définir un nombre maximal de messages par profil et sélectionner une période pour laquelle la règle s’appliquera. Lors de la préparation de la diffusion, les profils sont exclus ou non de la diffusion, selon le nombre de messages qui leur ont déjà été adressés.
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33138?captions=fre_fr&learn=on){transcript=true}
 
 *Comment créer une [!UICONTROL règle de fatigue] (04:49 min)*
 

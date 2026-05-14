@@ -30,4 +30,4 @@ ht-degree: 18%
 
 Cette vidéo explique comment configurer des modèles [!UICONTROL page de destination].
 
->[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30955/?captions=fre_fr&learn=on){transcript=true}

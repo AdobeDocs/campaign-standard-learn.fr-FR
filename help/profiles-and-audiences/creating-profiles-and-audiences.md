@@ -40,4 +40,4 @@ Les profils regroupés selon un ou plusieurs critères communs sont appelés **a
 
 Cette vidéo explique comment accéder aux profils existants et comment créer des profils et des audiences dans Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38365/?captions=fre_fr&learn=on){transcript=true}

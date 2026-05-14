@@ -30,4 +30,4 @@ ht-degree: 16%
 
 Découvrez comment cibler des utilisateurs d&#39;applications mobiles connus avec des messages personnalisés avec des attributs de profil CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34831?captions=fre_fr&learn=on){transcript=true}

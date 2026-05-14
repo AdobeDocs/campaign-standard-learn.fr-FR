@@ -35,12 +35,12 @@ Les vidéos suivantes expliquent les étapes requises pour configurer les [!UICO
 
 ## Étape 1 : créer un événement et le publier
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34433?captions=fre_fr&learn=on){transcript=true}
 
 ## Étape 2 - Ajouter une liste de produits à un modèle de message transactionnel
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34434?captions=fre_fr&learn=on){transcript=true}
 
 ## Étape 3 - Tester le message transactionnel
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34435?captions=fre_fr&learn=on){transcript=true}

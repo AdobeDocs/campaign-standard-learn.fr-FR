@@ -38,4 +38,4 @@ Adobe Campaign vous permet d&#39;envoyer des [!UICONTROL notifications push] per
 
 La vidéo décrit comment envoyer un [!DNL push notification to app subscribers].
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36634?captions=fre_fr&learn=on){transcript=true}
