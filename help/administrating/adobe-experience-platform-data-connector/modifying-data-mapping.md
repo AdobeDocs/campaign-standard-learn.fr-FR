@@ -32,7 +32,7 @@ ht-degree: 6%
 
 Découvrez comment vérifier le statut et modifier le mappage de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38491?captions=fre_fr&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

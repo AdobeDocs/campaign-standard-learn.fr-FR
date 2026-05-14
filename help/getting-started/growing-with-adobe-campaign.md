@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Cette vidéo présente les prochaines étapes potentielles d’une véritable orchestration cross-canal.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33573?captions=fre_fr&learn=on){transcript=true}

@@ -34,4 +34,4 @@ Découvrez comment créer une diffusion SMS dans Adobe Campaign Standard. Vous p
 
 L’activité Diffusion SMS permet d’automatiser l’envoi de SMS. La configuration de cette activité est identique à celle de la diffusion unique décrite dans la vidéo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31327/?captions=fre_fr&learn=on){transcript=true}

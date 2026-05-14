@@ -29,4 +29,4 @@ ht-degree: 51%
 
 Vous pouvez affiner le responsive design d’un email en éditant séparément toutes les options de style pour l’affichage mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39671?captions=fre_fr&learn=on){transcript=true}

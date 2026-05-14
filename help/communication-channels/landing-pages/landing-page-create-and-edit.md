@@ -28,7 +28,7 @@ ht-degree: 38%
 
 Adobe Campaign vous permet de créer des pages de destination qui sont des formulaires en ligne pouvant être utilisés pour capturer des informations sur vos audiences, proposer des abonnements à un service, afficher des données et développer votre base de données. Les landing pages peuvent également être utilisées pour acquérir ou mettre à jour des profils existants.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36633?captions=fre_fr&learn=on){transcript=true}
 
 ## Ressources supplémentaires
 

@@ -42,7 +42,7 @@ Voici quelques cas pratiques :
 
 Cette vidéo présente l’utilisation de l’[!UICONTROL activité API externe].
 
->[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33117/?captions=fre_fr&learn=on){transcript=true}
 
 *[!UICONTROL Activité API externe] (06:48 min)*
 

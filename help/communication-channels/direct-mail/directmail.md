@@ -30,7 +30,7 @@ Le canal [!UICONTROL Publipostage direct] vous permet d’extraire une liste seg
 
 Cette vidéo explique comment configurer une diffusion [!UICONTROL publipostage direct] et quels paramètres sont requis pour pouvoir ajouter un profil à une diffusion [!UICONTROL publipostage direct].
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30953?captions=fre_fr&learn=on){transcript=true}
 
 ## Création d’un [!UICONTROL publipostage direct] dans un workflow
 

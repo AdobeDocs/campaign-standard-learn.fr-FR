@@ -31,4 +31,4 @@ ht-degree: 27%
 
 Découvrez les logs de message, les logs de traitement et les logs de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445036/?captions=fre_fr&learn=on){transcript=true}

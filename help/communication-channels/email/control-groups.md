@@ -32,4 +32,4 @@ L’utilisation des [!UICONTROL populations témoins] permet de mesurer l’impa
 
 Découvrez comment définir une [!UICONTROL population témoin] pour votre [!UICONTROL diffusion] et comment extraire les profils affectés à la [!UICONTROL population témoin] après l&#39;envoi de la [!UICONTROL diffusion].
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328538?captions=fre_fr&learn=on){transcript=true}

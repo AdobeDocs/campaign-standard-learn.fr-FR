@@ -32,6 +32,6 @@ ht-degree: 3%
 
 Découvrez comment mapper différents types de données entre Adobe Campaign Standard et Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34361?captions=fre_fr&learn=on){transcript=true}
 
 Consultez la documentation du produit pour plus d’informations sur la [&#x200B; Définition du mappage &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=fr)

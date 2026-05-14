@@ -28,4 +28,4 @@ ht-degree: 27%
 
 Cette vidéo explique comment tester une page de destination et la publier.
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37590?captions=fre_fr&learn=on){transcript=true}
