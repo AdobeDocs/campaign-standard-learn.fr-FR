@@ -9,16 +9,28 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
-source-wordcount: '198'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/e5P--uy0Qe1gz80G9Wq3L-Ino6wsfILUm-TnlEWsxCg
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: b12f6872-9271-4369-85e5-86969a0b99a2
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 198
+ht-degree: 87%
 
 ---
 
 # Création de ressources personnalisées - Introduction
 
-[!DNL Adobe Campaign] s’accompagne d’un modèle de données prédéfini, dans lequel les données sont définies au moyen de différentes ressources. [!DNL Campaign] permet à l’utilisateur ou à l’utilisatrice d’étendre des ressources existantes ou de créer de nouvelles ressources.
+[!DNL Adobe Campaign] s’accompagne d’un modèle de données prédéfini, dans lequel les données sont définies au moyen de différentes ressources. [!DNL Campaign] permet à l’utilisateur d’étendre des ressources existantes ou de créer de nouvelles ressources.
 
 Ce tutoriel en plusieurs parties vous guide tout au long des étapes nécessaires pour créer et lier des ressources personnalisées.
 Découvrez comment :
@@ -40,10 +52,10 @@ Pour utiliser des informations supplémentaires sur les commandes d’un client,
 
 Ce tutoriel explique comment :
 
-Étape 1 - [Création d’une ressource personnalisée](./creating-a-custom-resource.md)
-Étape 2 - [Configuration d’une définition d’écran](./configuring-a-screen-definition-for-a-custom-resource.md)
-Étape 3 - [Liaison de ressources personnalisées](./linking-custom-resources.md)
-Étape 4 - [Population des ressources personnalisées avec des données](./populate-custom-resources-with-data.md)
+Etape 1 - [Créer une ressource personnalisée](./creating-a-custom-resource.md)
+Etape 2 - [Configuration d&#39;une définition d&#39;écran](./configuring-a-screen-definition-for-a-custom-resource.md)
+Etape 3 - [Liaison de ressources personnalisées](./linking-custom-resources.md)
+Étape 4 - [Renseigner des ressources personnalisées avec des données](./populate-custom-resources-with-data.md)
 
 ## Début du tutoriel
 
