@@ -10,8 +10,7 @@ activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
 TQID: https://experienceleague.adobe.com/NrQc40vzqTy0fNfVT6fN0IjMKuXjilt6eZV-lgZpAcQ
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 179
@@ -35,5 +34,5 @@ Si tout se passe bien, une notification s’affiche dans votre application ™ e
 
 ## Autres ressources
 
-* [Documentation détaillée sur les notifications push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=fr)
+* [Documentation détaillée sur les notifications push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
 * [Création d’une notification push (vidéo)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

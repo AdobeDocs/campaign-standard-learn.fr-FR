@@ -11,10 +11,8 @@ level: Experienced
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 TQID: https://experienceleague.adobe.com/nxfR1VE-sFly-9YMJc1HEPAJl5G99Vc229z-i-pogOo
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 120
@@ -32,6 +30,6 @@ ht-degree: 6%
 
 Découvrez comment mapper les données de contrôle et les profils de test avec Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/35548?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
 
-Consultez la documentation du produit pour plus d’informations sur la [&#x200B; définition du mappage &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=fr) et l’[&#x200B; activation du mappage &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=fr)
+Consultez la documentation du produit pour plus d’informations sur la [ définition du mappage ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) et l’[ activation du mappage ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
