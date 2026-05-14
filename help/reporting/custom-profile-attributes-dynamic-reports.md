@@ -36,4 +36,4 @@ Cette vidéo explique comment créer un rapport basé sur des attributs de profi
 
 ## Ressources supplémentaires
 
-* [À propos des rapports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [À propos des rapports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=fr)

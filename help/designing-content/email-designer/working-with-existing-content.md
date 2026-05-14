@@ -39,4 +39,4 @@ Le Designer d’e-mail nécessite un balisage spécifique, qui doit être appliq
 
 La documentation détaillée se trouve sous le lien suivant :
 
-[Conversion de contenu HTML en modèle de Designer d’e-mail](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Conversion de contenu HTML en modèle de Designer d’e-mail](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=fr)

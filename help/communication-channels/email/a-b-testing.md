@@ -32,4 +32,4 @@ Découvrez comment configurer et envoyer un test A/B pour tester l’objet d’u
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-Consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) pour plus d’informations sur la manière de tester le contenu ou l’expéditeur.
+Consultez la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=fr) pour plus d’informations sur la manière de tester le contenu ou l’expéditeur.
