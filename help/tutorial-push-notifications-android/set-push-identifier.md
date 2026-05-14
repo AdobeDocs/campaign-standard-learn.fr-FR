@@ -1,6 +1,6 @@
 ---
 title: ÉTAPE 4 - Définition de l’identifiant push
-description: '**pushIdentifier** est une chaîne contenant le jeton de l’appareil pour les notifications push. Il s’agit du même jeton envoyé par Firebase et transmis au SDK à l’aide de la méthode MobileCore.setPushIdentifier .'
+description: Le **pushIdentifier** est une chaîne qui contient le jeton de l’appareil pour les notifications push. Il s’agit du même jeton qui est envoyé par Firebase et transmis au SDK à l’aide de la méthode MobileCore.setPushIdentifier.
 feature: Push
 user: Admin
 level: Experienced
@@ -9,18 +9,21 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
+TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: 226
 ht-degree: 0%
 
 ---
 
-# Étape 4 - Définir [!DNL pushidentifier]
+# Étape 4 - Définir le [!DNL pushidentifier]
 
-**[!DNL pushidentifier]** est une chaîne qui contient le jeton de périphérique pour les notifications [!DNL Push]. Il s’agit du même jeton envoyé par [!DNL Firebase] et transmis au SDK à l’aide de la méthode [!DNL MobileCore.setPushIdentifier].
+La **[!DNL pushidentifier]** est une chaîne qui contient le jeton de l’appareil pour les notifications [!DNL Push]. Il s’agit du même jeton qui est envoyé par [!DNL Firebase] et transmis au SDK à l’aide de la méthode [!DNL MobileCore.setPushIdentifier].
 
-Ouvrez votre projet dans [!DNL Android™]studio. Supprimez le code entier dans [!DNL MainActivity] **à l&#39;exception de la première ligne correspondant à votre instruction de package**.
+Ouvrez votre projet dans [!DNL Android™]studio. Supprimez l’intégralité du code dans [!DNL MainActivity] **à l’exception de la première ligne qui est votre instruction de package**.
 
 Collez le code suivant dans [!DNL MainActivity] :
 
@@ -87,23 +90,23 @@ MobileCore.lifecyclePause();
 }
 ```
 
-## Test de votre application
+## Tester votre application
 
-C’est le bon moment pour tester votre application, avant d’aller plus loin.
+C’est maintenant le moment de tester votre application, avant d’aller plus loin.
 
 * Exécutez votre application en cliquant sur la flèche verte ou sélectionnez **[!DNL Run->Run'app']**.
-* L’émulateur [!DNL Android™] doit démarrer et votre application doit s’exécuter avec [!DNL "Hello World"]text.
-* Ouvrez la fenêtre [!DNL logcat] . Recherchez &quot;[!DNL Got]&quot;. Vous devriez voir le jeton reçu de [!DNL Firebase] écrit dans le journal comme illustré ci-dessous. La longue chaîne après &quot;[!DNL Got token]&quot; est la [!DNL pushidentifier] envoyée à Adobe Campaign.
+* L’émulateur de [!DNL Android™] doit démarrer et vous devriez voir votre application s’exécuter avec [!DNL "Hello World"]text.
+* Ouvrez la fenêtre de [!DNL logcat]. Recherchez « [!DNL Got] ». Vous devriez voir le jeton qui a été reçu de [!DNL Firebase] écrit dans le journal comme illustré ci-dessous. La longue chaîne après « [!DNL Got token] » est la [!DNL pushidentifier] envoyée à Adobe Campaign.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
-### Vérifier les abonnés aux applications mobiles
+### Vérifier les abonnés de l&#39;application mobile
 
 Connectez-vous à votre instance Adobe Campaign Standard.
-Accédez à **[!UICONTROL Administration->Canaux->Mobile App(Experience Platform SDK)]**. Ouvrez l’application mobile appropriée. Onglet [!UICONTROL Abonnés à l’application mobile]. Un [!UICONTROL jeton d&#39;enregistrement] devrait s&#39;afficher.
+Accédez **[!UICONTROL Administration->Canaux->Application mobile (Experience Platform SDK)]**. Ouvrez l’application mobile appropriée. Accédez à l’onglet [!UICONTROL Abonnés à l’application mobile]. Un [!UICONTROL jeton d’enregistrement]répertorié devrait s’afficher.
 
-![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
+![application-mobile-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->Si vous ne voyez pas de jeton d’enregistrement dans l’onglet [!UICONTROL Mobile Application Subscribers] , arrêtez-vous ici avant de poursuivre.
+>Si vous ne voyez pas le jeton d’enregistrement dans l’onglet [!UICONTROL Abonnés à l’application mobile], STOP ici avant de continuer.

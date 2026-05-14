@@ -1,6 +1,6 @@
 ---
 title: Étape 5 - Propagation des notifications
-description: Dans cette partie, nous allons propager le message reçu d’Adobe Campaign à l’aide d’Android Notification Manager.Firebase
+description: Dans cette partie, nous allons propager le message reçu d’Adobe Campaign à l’aide du gestionnaire de notifications Android.Firebase.
 feature: Push
 jira: KT-4829
 user: Admin
@@ -9,24 +9,26 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-source-git-commit: 200dcb4d6698c174f7fde508779609b11043d031
+TQID: https://experienceleague.adobe.com/xNsJ0Cj8CUpvHfR66lTnZZEp-shWD0OC14ctHHFu4IY
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: 155
 ht-degree: 2%
 
 ---
 
-# Ajouter un service pour envoyer la notification
+# Ajouter un service pour envoyer une notification
 
-Dans cette partie, nous allons propager le message reçu d’Adobe Campaign à l’aide de [!DNL Android Notification Manager]. [!DNL Notification manager] est utilisé pour avertir l’utilisateur des événements qui se produisent.
-Voici comment vous dites à l’utilisateur que quelque chose s’est produit en arrière-plan :
+Dans cette partie, nous allons propager le message reçu d’Adobe Campaign à l’aide de [!DNL Android Notification Manager]. [!DNL Notification manager] sert à informer l’utilisateur ou l’utilisatrice des événements qui se produisent.
+Voici comment informer l’utilisateur qu’un événement s’est produit en arrière-plan :
 
-* Lancement [!DNL Android Studio]
-* Ouvrir le projet *[!DNL ACSPushTutorial]*
+* [!DNL Android Studio] Launch
+* Ouvrir *[!DNL ACSPushTutorial]* projet
 * Développer la structure du projet
 * Cliquez avec le bouton droit sur le dossier de package ([!DNL com.example.acspushtutorial]) et [!DNL New ->Java Class]
 * Nommez cette classe *[!DNL MyService]* et assurez-vous qu’elle étend [!DNL FirebaseMessagingService]
-* Créez la méthode *[!DNL sendNotification]* dans cette classe. Dans cette méthode, vous devez définir le contenu et le canal de la notification à l’aide d’un objet [!DNL NotificationCompat.Builder]. Pour faire apparaître la notification, appelez [!DNL NotificationManagerCompat.notify()], lui transmettant un identifiant unique pour la notification et le résultat de [!DNL NotificationCompat.Builder.build()].
+* Créez *[!DNL sendNotification]* méthode dans cette classe. Dans cette méthode, vous devez définir le contenu et le canal de la notification à l’aide d’un objet [!DNL NotificationCompat.Builder]. Pour que la notification apparaisse, appelez [!DNL NotificationManagerCompat.notify()], en lui transmettant un identifiant unique pour la notification et le résultat de l’[!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -93,9 +95,9 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 }
 ```
 
-## Modifier [!DNL AndroidManifest.xml]
+## Modifier le [!DNL AndroidManifest.xml]
 
-Ajoutez le service qui a été créé à votre [!DNL AndroidManifest.xml]. Le dernier [!DNL AndroidManifest.xml] doit ressembler à ce qui suit :
+Ajoutez le service qui a été créé à votre [!DNL AndroidManifest.xml]. La [!DNL AndroidManifest.xml] finale doit se présenter comme suit :
 
 <!--
 Removed `{.line-numbers}` below
@@ -137,6 +139,6 @@ Removed `{.line-numbers}` below
 </manifest>
 ```
 
-## Exécution de l’application
+## Exécuter l’application
 
 Exécutez l’application en cliquant sur la **flèche verte** dans la barre d’outils ou dans le menu [!DNL Run].

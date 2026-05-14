@@ -10,9 +10,13 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
-source-wordcount: '216'
+TQID: https://experienceleague.adobe.com/WAjSXi0waiL-r9YaCjYGOU5NQ4hiqcH0Q1q94chEv6s
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 216
 ht-degree: 100%
 
 ---
@@ -28,6 +32,6 @@ Optimisé par [!UICONTROL l’IA dédiée au parcours], [!DNL Adobe Campaign] pe
 
 Identifiez les workflows nécessaires pour synchroniser les données entre Adobe Campaign et le modèle d’IA dédiée au parcours. Découvrez comment afficher des scores d’heure d’envoi au niveau du profil individuel et comment exécuter des diffusions email à l&#39;aide d&#39;une formule d’heure d’envoi.
 
->[!VIDEO](https://video.tv.adobe.com/v/328459?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
 
 Consultez la documentation du produit pour en savoir plus sur l’[optimisation de la conception et de la diffusion avec les e-mails optimisés par l’IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=fr)
