@@ -38,4 +38,4 @@ Optimisé par [!UICONTROL l’IA dédiée au parcours], [!DNL Adobe Campaign] pe
 
 Découvrez comment afficher les scores d’engagement au niveau de chaque profil, les utiliser pour cibler les profils les plus engagés, exclure ceux qui présentent des signes de lassitude et créer des règles de typologie pour gérer la fatigue des clientes et clients.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328450?captions=fre_fr&learn=on){transcript=true}
