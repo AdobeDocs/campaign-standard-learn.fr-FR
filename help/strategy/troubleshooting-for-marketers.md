@@ -10,11 +10,18 @@ jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
 TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 743
@@ -64,7 +71,7 @@ Consultez la capture d&#39;écran de l&#39;activité de réconciliation comme il
 
 ![workflow avec détails de réconciliation](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-En savoir plus sur la [ réconciliation ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+En savoir plus sur la [&#x200B; réconciliation &#x200B;](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Erreur de jeu de données de champ commun
 
@@ -87,7 +94,7 @@ Il existe deux manières de résoudre cette erreur :
 
 2. Utilisez la méthode d&#39;exclusion JOINS pour sélectionner le champ en fonction duquel vous souhaitez exclure les enregistrements.
 
-![Erreur de jeu de données de champ commun - ](/help/assets/kt-13256/dataset-error-solution.png) de solution
+![Erreur de jeu de données de champ commun - &#x200B;](/help/assets/kt-13256/dataset-error-solution.png) de solution
 
 ## Erreur de suppression du nom du champ
 
@@ -120,7 +127,7 @@ Vous pouvez résoudre cette erreur de trois façons :
 **Cause :**
 Il s’agit d’une erreur courante dans les workflows complexes impliquant un enrichissement ou une autre activité. Cela signifie probablement que certains workflows d’activité ne sont pas correctement enregistrés lors de plusieurs modifications apportées au workflow.
 
-![Erreur de table temporaire ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Erreur de table temporaire &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Solution :**
 Cette erreur peut se produire de nombreuses façons. Il n’existe donc pas de solution simple. S’il s’agit d’un workflow simple, il est préférable de reconfigurer l’activité. Dans un workflow complexe, il est préférable de copier les activités de workflow dans un nouveau workflow, de les enregistrer et de les réexécuter.
