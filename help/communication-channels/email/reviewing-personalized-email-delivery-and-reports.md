@@ -30,4 +30,4 @@ ht-degree: 23%
 
 Cette vidéo explique comment passer en revue une diffusion e-mail personnalisée et explore les différents rapports disponibles dans Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38357?captions=fre_fr&learn=on){transcript=true}

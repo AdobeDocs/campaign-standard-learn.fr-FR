@@ -30,4 +30,4 @@ Vous pouvez créer une diffusion e-mail autonome à partir d&#39;une campagne, d
 
 Découvrez comment créer une diffusion par e-mail à partir de la page d’accueil.
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30952?captions=fre_fr&learn=on){transcript=true}

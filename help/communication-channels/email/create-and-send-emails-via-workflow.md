@@ -32,4 +32,4 @@ Il est possible de créer un email à partir d’une campagne, depuis la page d�
 
 Découvrez comment créer et envoyer des e-mails via un workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33601?captions=fre_fr&learn=on){transcript=true}

@@ -31,4 +31,4 @@ Adobe Campaign Standard offre 18 modèles d’email entièrement personnalisab
 
 Cette vidéo présente les modèles et explique comment créer le vôtre.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37585?captions=fre_fr&learn=on){transcript=true}
