@@ -75,7 +75,7 @@ Une fois l’intégration de votre application avec Firebase terminée, vous dev
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Vérifiez que votre projet est répertorié dans  [!DNL Firebase ] console](https://console.firebase.google.com/)
+[Vérifiez que votre projet est répertorié dans  [!DNL Firebase &#x200B;] console](https://console.firebase.google.com/)
 
 ## Configurer Les Paramètres [!UICONTROL Canal Push]
 
@@ -91,9 +91,9 @@ Une fois l’intégration de votre application avec Firebase terminée, vous dev
    ![clé-serveur](assets/firebase-server-key.PNG)
 
 6. Connectez-vous à votre instance Adobe Campaign Standard
-7. Cliquez Sur **** > **[!UICONTROL Administration]** > **[!UICONTROL Canaux]** > **[!UICONTROL Application Mobile].**
+7. Cliquez Sur **&#x200B;**&#x200B;> **[!UICONTROL Administration]** > **[!UICONTROL Canaux]** > **[!UICONTROL Application Mobile].**
 8. Sélectionnez la **[!UICONTROL Propriété de l’application mobile].** appropriée
-9. Cliquez sur l’icône **dans la section**[!UICONTROL  Paramètres du canal push ]**.**[!DNL Android]
+9. Cliquez sur l’icône **dans la section**&#x200B;[!UICONTROL &#x200B; Paramètres du canal push &#x200B;]&#x200B;**.**&#x200B;[!DNL Android]
 10. Collez la clé du serveur dans le champ clé du serveur .
 
 Si tout se passe bien, un message de SUCCÈS s’affiche.

@@ -50,7 +50,7 @@ L’intégration d’Adobe Campaign Standard avec Adobe Dreamweaver vous perm
 
 >[!NOTE]
 >
->Cette fonctionnalité nécessite l’extension Dreamweaver appelée **[!UICONTROL Adobe Campaign Integration]**. Vous pouvez télécharger l’extension depuis [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Pour plus d’informations sur l’installation, voir [ Extension de Campaign pour Dreamweaver ](https://helpx.adobe.com/fr/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
+>Cette fonctionnalité nécessite l’extension Dreamweaver appelée **[!UICONTROL Adobe Campaign Integration]**. Vous pouvez télécharger l’extension depuis [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Pour plus d’informations sur l’installation, voir [&#x200B; Extension de Campaign pour Dreamweaver &#x200B;](https://helpx.adobe.com/fr/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 La vidéo explique les éléments requis pour activer l’intégration Dreamweaver. Elle montre aussi comment créer et modifier du contenu pour Adobe Campaign Standard à l’aide de Dreamweaver.
 

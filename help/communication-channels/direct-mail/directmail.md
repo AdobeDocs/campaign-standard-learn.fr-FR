@@ -43,8 +43,8 @@ Cette vidéo explique comment configurer une diffusion [!UICONTROL publipostage 
 
 ## Création d’un [!UICONTROL publipostage direct] dans un workflow
 
-Le canal est disponible à partir de la page d’accueil et dans la vue de workflow afin de définir des stratégies marketing cross-canal cohérentes. L’exemple de workflow suivant inclut l’activité [!UICONTROL  Publipostage direct ].
+Le canal est disponible à partir de la page d’accueil et dans la vue de workflow afin de définir des stratégies marketing cross-canal cohérentes. L’exemple de workflow suivant inclut l’activité [!UICONTROL &#x200B; Publipostage direct &#x200B;].
 
 ![Image du workflow](/help/assets/direct_mail_examplewf.png)
 
-Consultez la documentation du produit pour en savoir plus [ sur le publipostage direct ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Consultez la documentation du produit pour en savoir plus [&#x200B; sur le publipostage direct &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

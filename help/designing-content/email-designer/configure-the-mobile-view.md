@@ -35,7 +35,7 @@ workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 51%
 ---
-# Configuration de la vue mobile dans le Designer Email][!UICONTROL  {#configure-the-mobile-view}
+# Configuration de la vue mobile dans le Designer Email {#configure-the-mobile-view}
 
 Vous pouvez affiner le responsive design d’un email en éditant séparément toutes les options de style pour l’affichage mobile.
 

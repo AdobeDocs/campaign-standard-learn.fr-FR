@@ -40,7 +40,7 @@ ht-degree: 0%
 ---
 # [!UICONTROL Activité Signal externe] - Appelez un workflow avec des paramètres
 
-L’[!UICONTROL activité Signal externe] permet d’organiser et d’orchestrer différents processus faisant partie du même parcours client dans différents workflows. Cette activité peut démarrer un workflow à partir d’un autre. L’activité [!UICONTROL  Signal externe ] peut appeler un workflow et transmettre des paramètres, tels qu’un nom d’audience à cibler, un nom de fichier à importer ou une partie du contenu du message, d’un workflow à un autre. Elle peut également appeler une API REST pour l’intégration à des systèmes externes, tels qu’un système de gestion de contenu. Avec l’activité **Test**, il est possible d’exécuter des tests sur cette fonctionnalité.
+L’[!UICONTROL activité Signal externe] permet d’organiser et d’orchestrer différents processus faisant partie du même parcours client dans différents workflows. Cette activité peut démarrer un workflow à partir d’un autre. L’activité [!UICONTROL &#x200B; Signal externe &#x200B;] peut appeler un workflow et transmettre des paramètres, tels qu’un nom d’audience à cibler, un nom de fichier à importer ou une partie du contenu du message, d’un workflow à un autre. Elle peut également appeler une API REST pour l’intégration à des systèmes externes, tels qu’un système de gestion de contenu. Avec l’activité **Test**, il est possible d’exécuter des tests sur cette fonctionnalité.
 
 Découvrez comment configurer l’[!UICONTROL activité Signal externe] pour recevoir des paramètres** d’un système externe, personnaliser un workflow avec des paramètres externes et configurer une activité Fin pour appeler un workflow avec les paramètres externes
 
