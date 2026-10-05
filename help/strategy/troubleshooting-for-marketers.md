@@ -9,31 +9,45 @@ last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
+TQID: 'https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+subfeature_v2:
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+    internal-label: Workflows
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 743
-ht-degree: 0%
-
+source-wordcount: '743'
+ht-degree: 1%
 ---
-
 # Dépannage pour les professionnels du marketing : 5 erreurs courantes de workflow et de diffusion
 
 Par : [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Consultant principal, Meijer
 
-En tant qu’ingénieur senior et expert client sur les produits Adobe Experience Cloud depuis cinq ans, j’ai permis aux utilisateurs professionnels de [Meijer](https://www.meijer.com/){target="_blank"}, une chaîne américaine de supercentres fondée en 1934, d’exécuter des campagnes marketing et transactionnelles complexes avec ACS. J’ai travaillé sur quelques projets, dont des campagnes personnalisées pour stocker les offres et les détails de commande pour la personnalisation, l’intégration à Adobe Audience Manager et Customer insight pour l’ingestion de segments.
+En tant qu’ingénieur senior et expert client sur les produits Adobe Experience Cloud depuis cinq ans, j’ai permis aux utilisateurs professionnels de [Meijer](https://www.meijer.com/){target="_blank"}, une chaîne de supercentres américaine fondée en 1934, d’exécuter des campagnes marketing et transactionnelles complexes avec ACS. J’ai travaillé sur quelques projets, dont des campagnes personnalisées pour stocker les offres et les détails de commande pour la personnalisation, l’intégration à Adobe Audience Manager et Customer insight pour l’ingestion de segments.
 
 
 Pendant que j&#39;utilisais ACS, j&#39;ai rencontré des erreurs, qui peuvent prendre du temps et être frustrantes à résoudre. Connaître les erreurs les plus courantes peut vous aider à résoudre plus rapidement les problèmes et à accroître votre productivité. Vous trouverez ci-dessous mes conseils de dépannage pour vous aider à résoudre efficacement des erreurs similaires lorsqu’elles se produisent.
@@ -43,7 +57,7 @@ Pendant que j&#39;utilisais ACS, j&#39;ai rencontré des erreurs, qui peuvent pr
 **Code d’erreur :**
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
-**Cause :**
+**Cause :**
 Ces types d’erreurs apparaissent dans un workflow lorsque vous essayez de réconcilier à l’aide de champs de différents types de données. Par exemple, lorsque vous chargez un fichier à l’aide de l’option Charger le fichier , qui comporte un champ de chaîne, et que vous essayez de réconcilier le champ de chaîne avec un champ de profil dont le type de données est int.
 
 ![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
@@ -59,7 +73,7 @@ Remplacez le type de données du champ de l&#39;activité « Chargement de fichi
 **Code d’erreur :**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
-**Cause :**
+**Cause :**
 Cette erreur s’affiche lorsque vous envoyez un e-mail à une adresse, mais que l’e-mail ou tout autre identifiant n’est pas réconcilié avec un profil. Pour envoyer une communication par e-mail, l’e-mail ou l’identifiant doit toujours être lié à un profil.
 
 ![workflow avec activité de réconciliation](/help/assets/kt-13256/del-persn-error-wf.png)
@@ -71,14 +85,14 @@ Consultez la capture d&#39;écran de l&#39;activité de réconciliation comme il
 
 ![workflow avec détails de réconciliation](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-En savoir plus sur la [&#x200B; réconciliation &#x200B;](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+En savoir plus sur la [ réconciliation ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Erreur de jeu de données de champ commun
 
 **Code d’erreur :**
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
-**Cause :**
+**Cause :**
 Ce problème se produit lors de l’utilisation de l’activité **exclusion** dans les workflows ACS, lors de l’exécution d’une exclusion en fonction de l’identifiant, lorsque le jeu de Principal et l’ensemble exclu n’ont pas les mêmes noms de champ.
 
 
@@ -94,7 +108,7 @@ Il existe deux manières de résoudre cette erreur :
 
 2. Utilisez la méthode d&#39;exclusion JOINS pour sélectionner le champ en fonction duquel vous souhaitez exclure les enregistrements.
 
-![Erreur de jeu de données de champ commun - &#x200B;](/help/assets/kt-13256/dataset-error-solution.png) de solution
+![Erreur de jeu de données de champ commun - ](/help/assets/kt-13256/dataset-error-solution.png) de solution
 
 ## Erreur de suppression du nom du champ
 
@@ -124,10 +138,10 @@ Vous pouvez résoudre cette erreur de trois façons :
 **Code d’erreur :**
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
-**Cause :**
+**Cause :**
 Il s’agit d’une erreur courante dans les workflows complexes impliquant un enrichissement ou une autre activité. Cela signifie probablement que certains workflows d’activité ne sont pas correctement enregistrés lors de plusieurs modifications apportées au workflow.
 
-![Erreur de table temporaire &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Erreur de table temporaire ](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Solution :**
 Cette erreur peut se produire de nombreuses façons. Il n’existe donc pas de solution simple. S’il s’agit d’un workflow simple, il est préférable de reconfigurer l’activité. Dans un workflow complexe, il est préférable de copier les activités de workflow dans un nouveau workflow, de les enregistrer et de les réexécuter.

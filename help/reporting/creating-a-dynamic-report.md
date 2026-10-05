@@ -10,30 +10,40 @@ team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
-TQID: https://experienceleague.adobe.com/d2rE4Xx7LS-ve3-y5ADg1NhloN2obuOjLL6xLAgWegM
+TQID: 'https://experienceleague.adobe.com/d2rE4Xx7LS-ve3-y5ADg1NhloN2obuOjLL6xLAgWegM'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: c309ee4e-82e4-4f7e-b608-ef345678c34e
+    internal-label: Dynamic reporting
+subfeature_v2:
+  - id: b3a4149f-2b3a-44d1-894e-e3ac4c77fb47
+    internal-label: Reporting interface
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Reporting
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 70
+source-wordcount: '70'
 ht-degree: 28%
-
 ---
-
 # Créer un [!UICONTROL rapport dynamique]{#creating-a-report}
 
 Les [!UICONTROL rapports dynamiques] d’Adobe Campaign sont un environnement à structure libre flexible dans lequel vous pouvez explorer des données. Il vous permet de combiner des dimensions, des mesures et des périodes dans n’importe quelle combinaison, avec un nombre illimité de répartitions et de comparaisons.
 
 Découvrez comment créer un rapport.
 
->[!VIDEO](https://video.tv.adobe.com/v/30594/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
 
 ## Ressources supplémentaires
 
-* [À propos des rapports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=fr)
+* [À propos des rapports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

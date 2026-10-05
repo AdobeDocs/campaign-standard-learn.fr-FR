@@ -10,26 +10,42 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-TQID: https://experienceleague.adobe.com/g9vm2eX37-rEYlBmNDoPgUOBVf8fCG-Mk4JQSOd5d4c
+TQID: 'https://experienceleague.adobe.com/g9vm2eX37-rEYlBmNDoPgUOBVf8fCG-Mk4JQSOd5d4c'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+  - id: c309ee4e-82e4-4f7e-b608-ef345678c34e
+    internal-label: Dynamic reporting
+subfeature_v2:
+  - id: f0a90a14-8ca9-484f-994e-d7ff1bead452
+    internal-label: In app messaging
+  - id: b3a4149f-2b3a-44d1-894e-e3ac4c77fb47
+    internal-label: Reporting interface
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Reporting
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 60
+source-wordcount: '60'
 ht-degree: 10%
-
 ---
-
 # Créer un rapport sur votre diffusion [!UICONTROL In-App] {#in-app-message-reporting}
 
 Découvrez comment présenter à l’utilisateur des messages In-App contextuellement pertinents en réponse au comportement en temps réel d’un client dans l’application mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/34766?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}

@@ -9,16 +9,26 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-TQID: https://experienceleague.adobe.com/WjKV0qe9zi7cV37Wn54BJdI91n92i302t4k-yMIenZ4
+TQID: 'https://experienceleague.adobe.com/WjKV0qe9zi7cV37Wn54BJdI91n92i302t4k-yMIenZ4'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 115
+source-wordcount: '115'
 ht-degree: 13%
-
 ---
-
 # Étape 3 - Enregistrement des extensions dans votre application mobile
 
 Dans cette partie, nous ajoutons le code pour enregistrer les extensions Profil utilisateur, Identité, Cycle de vie et Signal. Nous devons également enregistrer l’extension Adobe Campaign Standard, comme indiqué dans le code ci-dessous.
@@ -73,6 +83,6 @@ try{
 }
 ```
 
-Ligne 32 : vous devez fournir l’identifiant du fichier d’environnement de votre propriété [!UICONTROL &#x200B; Launch]. Vous pouvez y accéder à partir de l’onglet [!UICONTROL environnement] de votre propriété [!UICONTROL Launch].
+Ligne 32 : vous devez fournir l’identifiant du fichier d’environnement de votre propriété [!UICONTROL  Launch]. Vous pouvez y accéder à partir de l’onglet [!UICONTROL environnement] de votre propriété [!UICONTROL Launch].
 
 ![launch-id](assets/launch-id-property.PNG)
