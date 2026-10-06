@@ -9,18 +9,29 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
+TQID: 'https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Administration
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 226
+source-wordcount: '229'
 ht-degree: 0%
-
 ---
-
 # Étape 4 - Définir le [!DNL pushidentifier]
 
 La **[!DNL pushidentifier]** est une chaîne qui contient le jeton de l’appareil pour les notifications [!DNL Push]. Il s’agit du même jeton qui est envoyé par [!DNL Firebase] et transmis au SDK à l’aide de la méthode [!DNL MobileCore.setPushIdentifier].
