@@ -37,6 +37,6 @@ ht-degree: 0%
 
 Découvrez comment renseigner des ressources personnalisées avec des données provenant d’un fichier [!DNL CSV] à l’aide d’un workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507509?captions=fre_fr&learn=on){transcript=true}
 
 Pour plus d’informations sur la façon de renseigner des ressources personnalisées par le biais d’une [!DNL API], consultez la documentation : [&#x200B; Interaction avec des ressources personnalisées](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=fr).

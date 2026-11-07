@@ -35,7 +35,7 @@ ht-degree: 4%
 
 Découvrez comment configurer une définition d’écran pour une ressource personnalisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507408?captions=fre_fr&learn=on){transcript=true}
 
 **Étape suivante**
 
