@@ -35,7 +35,7 @@ ht-degree: 7%
 
 Découvrez comment lier deux ressources personnalisées.
 
->[!VIDEO](https://video.tv.adobe.com/v/27712?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507579?captions=fre_fr&learn=on){transcript=true}
 
 **Étape suivante**
 

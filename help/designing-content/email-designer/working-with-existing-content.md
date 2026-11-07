@@ -41,7 +41,7 @@ ht-degree: 11%
 
 Découvrez comment récupérer votre contenu créatif d’un site web et le charger dans le Designer d’e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507636?captions=fre_fr&learn=on){transcript=true}
 
 ## Rendre le contenu HTML existant compatible {#making-existing-html-content-compatible}
 
